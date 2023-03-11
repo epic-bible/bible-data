@@ -1,0 +1,6616 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 1,
+    "chapter_name": "Genesis 1",
+    "verses_size": 31
+  },
+  {
+    "book": "Genesis",
+    "chapter": 2,
+    "chapter_name": "Genesis 2",
+    "verses_size": 25
+  },
+  {
+    "book": "Genesis",
+    "chapter": 3,
+    "chapter_name": "Genesis 3",
+    "verses_size": 24
+  },
+  {
+    "book": "Genesis",
+    "chapter": 4,
+    "chapter_name": "Genesis 4",
+    "verses_size": 26
+  },
+  {
+    "book": "Genesis",
+    "chapter": 5,
+    "chapter_name": "Genesis 5",
+    "verses_size": 32
+  },
+  {
+    "book": "Genesis",
+    "chapter": 6,
+    "chapter_name": "Genesis 6",
+    "verses_size": 22
+  },
+  {
+    "book": "Genesis",
+    "chapter": 7,
+    "chapter_name": "Genesis 7",
+    "verses_size": 24
+  },
+  {
+    "book": "Genesis",
+    "chapter": 8,
+    "chapter_name": "Genesis 8",
+    "verses_size": 22
+  },
+  {
+    "book": "Genesis",
+    "chapter": 9,
+    "chapter_name": "Genesis 9",
+    "verses_size": 29
+  },
+  {
+    "book": "Genesis",
+    "chapter": 10,
+    "chapter_name": "Genesis 10",
+    "verses_size": 32
+  },
+  {
+    "book": "Genesis",
+    "chapter": 11,
+    "chapter_name": "Genesis 11",
+    "verses_size": 32
+  },
+  {
+    "book": "Genesis",
+    "chapter": 12,
+    "chapter_name": "Genesis 12",
+    "verses_size": 20
+  },
+  {
+    "book": "Genesis",
+    "chapter": 13,
+    "chapter_name": "Genesis 13",
+    "verses_size": 18
+  },
+  {
+    "book": "Genesis",
+    "chapter": 14,
+    "chapter_name": "Genesis 14",
+    "verses_size": 24
+  },
+  {
+    "book": "Genesis",
+    "chapter": 15,
+    "chapter_name": "Genesis 15",
+    "verses_size": 21
+  },
+  {
+    "book": "Genesis",
+    "chapter": 16,
+    "chapter_name": "Genesis 16",
+    "verses_size": 16
+  },
+  {
+    "book": "Genesis",
+    "chapter": 17,
+    "chapter_name": "Genesis 17",
+    "verses_size": 27
+  },
+  {
+    "book": "Genesis",
+    "chapter": 18,
+    "chapter_name": "Genesis 18",
+    "verses_size": 33
+  },
+  {
+    "book": "Genesis",
+    "chapter": 19,
+    "chapter_name": "Genesis 19",
+    "verses_size": 38
+  },
+  {
+    "book": "Genesis",
+    "chapter": 20,
+    "chapter_name": "Genesis 20",
+    "verses_size": 18
+  },
+  {
+    "book": "Genesis",
+    "chapter": 21,
+    "chapter_name": "Genesis 21",
+    "verses_size": 34
+  },
+  {
+    "book": "Genesis",
+    "chapter": 22,
+    "chapter_name": "Genesis 22",
+    "verses_size": 24
+  },
+  {
+    "book": "Genesis",
+    "chapter": 23,
+    "chapter_name": "Genesis 23",
+    "verses_size": 20
+  },
+  {
+    "book": "Genesis",
+    "chapter": 24,
+    "chapter_name": "Genesis 24",
+    "verses_size": 67
+  },
+  {
+    "book": "Genesis",
+    "chapter": 25,
+    "chapter_name": "Genesis 25",
+    "verses_size": 34
+  },
+  {
+    "book": "Genesis",
+    "chapter": 26,
+    "chapter_name": "Genesis 26",
+    "verses_size": 35
+  },
+  {
+    "book": "Genesis",
+    "chapter": 27,
+    "chapter_name": "Genesis 27",
+    "verses_size": 46
+  },
+  {
+    "book": "Genesis",
+    "chapter": 28,
+    "chapter_name": "Genesis 28",
+    "verses_size": 22
+  },
+  {
+    "book": "Genesis",
+    "chapter": 29,
+    "chapter_name": "Genesis 29",
+    "verses_size": 35
+  },
+  {
+    "book": "Genesis",
+    "chapter": 30,
+    "chapter_name": "Genesis 30",
+    "verses_size": 43
+  },
+  {
+    "book": "Genesis",
+    "chapter": 31,
+    "chapter_name": "Genesis 31",
+    "verses_size": 55
+  },
+  {
+    "book": "Genesis",
+    "chapter": 32,
+    "chapter_name": "Genesis 32",
+    "verses_size": 32
+  },
+  {
+    "book": "Genesis",
+    "chapter": 33,
+    "chapter_name": "Genesis 33",
+    "verses_size": 20
+  },
+  {
+    "book": "Genesis",
+    "chapter": 34,
+    "chapter_name": "Genesis 34",
+    "verses_size": 31
+  },
+  {
+    "book": "Genesis",
+    "chapter": 35,
+    "chapter_name": "Genesis 35",
+    "verses_size": 29
+  },
+  {
+    "book": "Genesis",
+    "chapter": 36,
+    "chapter_name": "Genesis 36",
+    "verses_size": 43
+  },
+  {
+    "book": "Genesis",
+    "chapter": 37,
+    "chapter_name": "Genesis 37",
+    "verses_size": 36
+  },
+  {
+    "book": "Genesis",
+    "chapter": 38,
+    "chapter_name": "Genesis 38",
+    "verses_size": 30
+  },
+  {
+    "book": "Genesis",
+    "chapter": 39,
+    "chapter_name": "Genesis 39",
+    "verses_size": 23
+  },
+  {
+    "book": "Genesis",
+    "chapter": 40,
+    "chapter_name": "Genesis 40",
+    "verses_size": 23
+  },
+  {
+    "book": "Genesis",
+    "chapter": 41,
+    "chapter_name": "Genesis 41",
+    "verses_size": 57
+  },
+  {
+    "book": "Genesis",
+    "chapter": 42,
+    "chapter_name": "Genesis 42",
+    "verses_size": 38
+  },
+  {
+    "book": "Genesis",
+    "chapter": 43,
+    "chapter_name": "Genesis 43",
+    "verses_size": 34
+  },
+  {
+    "book": "Genesis",
+    "chapter": 44,
+    "chapter_name": "Genesis 44",
+    "verses_size": 34
+  },
+  {
+    "book": "Genesis",
+    "chapter": 45,
+    "chapter_name": "Genesis 45",
+    "verses_size": 28
+  },
+  {
+    "book": "Genesis",
+    "chapter": 46,
+    "chapter_name": "Genesis 46",
+    "verses_size": 34
+  },
+  {
+    "book": "Genesis",
+    "chapter": 47,
+    "chapter_name": "Genesis 47",
+    "verses_size": 31
+  },
+  {
+    "book": "Genesis",
+    "chapter": 48,
+    "chapter_name": "Genesis 48",
+    "verses_size": 22
+  },
+  {
+    "book": "Genesis",
+    "chapter": 49,
+    "chapter_name": "Genesis 49",
+    "verses_size": 33
+  },
+  {
+    "book": "Genesis",
+    "chapter": 50,
+    "chapter_name": "Genesis 50",
+    "verses_size": 26
+  },
+  {
+    "book": "Exodus",
+    "chapter": 1,
+    "chapter_name": "Exodus 1",
+    "verses_size": 22
+  },
+  {
+    "book": "Exodus",
+    "chapter": 2,
+    "chapter_name": "Exodus 2",
+    "verses_size": 25
+  },
+  {
+    "book": "Exodus",
+    "chapter": 3,
+    "chapter_name": "Exodus 3",
+    "verses_size": 22
+  },
+  {
+    "book": "Exodus",
+    "chapter": 4,
+    "chapter_name": "Exodus 4",
+    "verses_size": 31
+  },
+  {
+    "book": "Exodus",
+    "chapter": 5,
+    "chapter_name": "Exodus 5",
+    "verses_size": 23
+  },
+  {
+    "book": "Exodus",
+    "chapter": 6,
+    "chapter_name": "Exodus 6",
+    "verses_size": 30
+  },
+  {
+    "book": "Exodus",
+    "chapter": 7,
+    "chapter_name": "Exodus 7",
+    "verses_size": 25
+  },
+  {
+    "book": "Exodus",
+    "chapter": 8,
+    "chapter_name": "Exodus 8",
+    "verses_size": 32
+  },
+  {
+    "book": "Exodus",
+    "chapter": 9,
+    "chapter_name": "Exodus 9",
+    "verses_size": 35
+  },
+  {
+    "book": "Exodus",
+    "chapter": 10,
+    "chapter_name": "Exodus 10",
+    "verses_size": 29
+  },
+  {
+    "book": "Exodus",
+    "chapter": 11,
+    "chapter_name": "Exodus 11",
+    "verses_size": 10
+  },
+  {
+    "book": "Exodus",
+    "chapter": 12,
+    "chapter_name": "Exodus 12",
+    "verses_size": 51
+  },
+  {
+    "book": "Exodus",
+    "chapter": 13,
+    "chapter_name": "Exodus 13",
+    "verses_size": 22
+  },
+  {
+    "book": "Exodus",
+    "chapter": 14,
+    "chapter_name": "Exodus 14",
+    "verses_size": 31
+  },
+  {
+    "book": "Exodus",
+    "chapter": 15,
+    "chapter_name": "Exodus 15",
+    "verses_size": 27
+  },
+  {
+    "book": "Exodus",
+    "chapter": 16,
+    "chapter_name": "Exodus 16",
+    "verses_size": 36
+  },
+  {
+    "book": "Exodus",
+    "chapter": 17,
+    "chapter_name": "Exodus 17",
+    "verses_size": 16
+  },
+  {
+    "book": "Exodus",
+    "chapter": 18,
+    "chapter_name": "Exodus 18",
+    "verses_size": 27
+  },
+  {
+    "book": "Exodus",
+    "chapter": 19,
+    "chapter_name": "Exodus 19",
+    "verses_size": 25
+  },
+  {
+    "book": "Exodus",
+    "chapter": 20,
+    "chapter_name": "Exodus 20",
+    "verses_size": 26
+  },
+  {
+    "book": "Exodus",
+    "chapter": 21,
+    "chapter_name": "Exodus 21",
+    "verses_size": 36
+  },
+  {
+    "book": "Exodus",
+    "chapter": 22,
+    "chapter_name": "Exodus 22",
+    "verses_size": 31
+  },
+  {
+    "book": "Exodus",
+    "chapter": 23,
+    "chapter_name": "Exodus 23",
+    "verses_size": 33
+  },
+  {
+    "book": "Exodus",
+    "chapter": 24,
+    "chapter_name": "Exodus 24",
+    "verses_size": 18
+  },
+  {
+    "book": "Exodus",
+    "chapter": 25,
+    "chapter_name": "Exodus 25",
+    "verses_size": 40
+  },
+  {
+    "book": "Exodus",
+    "chapter": 26,
+    "chapter_name": "Exodus 26",
+    "verses_size": 37
+  },
+  {
+    "book": "Exodus",
+    "chapter": 27,
+    "chapter_name": "Exodus 27",
+    "verses_size": 21
+  },
+  {
+    "book": "Exodus",
+    "chapter": 28,
+    "chapter_name": "Exodus 28",
+    "verses_size": 43
+  },
+  {
+    "book": "Exodus",
+    "chapter": 29,
+    "chapter_name": "Exodus 29",
+    "verses_size": 46
+  },
+  {
+    "book": "Exodus",
+    "chapter": 30,
+    "chapter_name": "Exodus 30",
+    "verses_size": 38
+  },
+  {
+    "book": "Exodus",
+    "chapter": 31,
+    "chapter_name": "Exodus 31",
+    "verses_size": 18
+  },
+  {
+    "book": "Exodus",
+    "chapter": 32,
+    "chapter_name": "Exodus 32",
+    "verses_size": 35
+  },
+  {
+    "book": "Exodus",
+    "chapter": 33,
+    "chapter_name": "Exodus 33",
+    "verses_size": 23
+  },
+  {
+    "book": "Exodus",
+    "chapter": 34,
+    "chapter_name": "Exodus 34",
+    "verses_size": 35
+  },
+  {
+    "book": "Exodus",
+    "chapter": 35,
+    "chapter_name": "Exodus 35",
+    "verses_size": 35
+  },
+  {
+    "book": "Exodus",
+    "chapter": 36,
+    "chapter_name": "Exodus 36",
+    "verses_size": 38
+  },
+  {
+    "book": "Exodus",
+    "chapter": 37,
+    "chapter_name": "Exodus 37",
+    "verses_size": 29
+  },
+  {
+    "book": "Exodus",
+    "chapter": 38,
+    "chapter_name": "Exodus 38",
+    "verses_size": 31
+  },
+  {
+    "book": "Exodus",
+    "chapter": 39,
+    "chapter_name": "Exodus 39",
+    "verses_size": 43
+  },
+  {
+    "book": "Exodus",
+    "chapter": 40,
+    "chapter_name": "Exodus 40",
+    "verses_size": 38
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 1,
+    "chapter_name": "Leviticus 1",
+    "verses_size": 17
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 2,
+    "chapter_name": "Leviticus 2",
+    "verses_size": 16
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 3,
+    "chapter_name": "Leviticus 3",
+    "verses_size": 17
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 4,
+    "chapter_name": "Leviticus 4",
+    "verses_size": 35
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 5,
+    "chapter_name": "Leviticus 5",
+    "verses_size": 19
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 6,
+    "chapter_name": "Leviticus 6",
+    "verses_size": 30
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 7,
+    "chapter_name": "Leviticus 7",
+    "verses_size": 38
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 8,
+    "chapter_name": "Leviticus 8",
+    "verses_size": 36
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 9,
+    "chapter_name": "Leviticus 9",
+    "verses_size": 24
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 10,
+    "chapter_name": "Leviticus 10",
+    "verses_size": 20
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 11,
+    "chapter_name": "Leviticus 11",
+    "verses_size": 47
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 12,
+    "chapter_name": "Leviticus 12",
+    "verses_size": 8
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 13,
+    "chapter_name": "Leviticus 13",
+    "verses_size": 59
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 14,
+    "chapter_name": "Leviticus 14",
+    "verses_size": 57
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 15,
+    "chapter_name": "Leviticus 15",
+    "verses_size": 33
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 16,
+    "chapter_name": "Leviticus 16",
+    "verses_size": 34
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 17,
+    "chapter_name": "Leviticus 17",
+    "verses_size": 16
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 18,
+    "chapter_name": "Leviticus 18",
+    "verses_size": 30
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 19,
+    "chapter_name": "Leviticus 19",
+    "verses_size": 37
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 20,
+    "chapter_name": "Leviticus 20",
+    "verses_size": 27
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 21,
+    "chapter_name": "Leviticus 21",
+    "verses_size": 24
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 22,
+    "chapter_name": "Leviticus 22",
+    "verses_size": 33
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 23,
+    "chapter_name": "Leviticus 23",
+    "verses_size": 44
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 24,
+    "chapter_name": "Leviticus 24",
+    "verses_size": 23
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 25,
+    "chapter_name": "Leviticus 25",
+    "verses_size": 55
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 26,
+    "chapter_name": "Leviticus 26",
+    "verses_size": 46
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 27,
+    "chapter_name": "Leviticus 27",
+    "verses_size": 34
+  },
+  {
+    "book": "Numbers",
+    "chapter": 1,
+    "chapter_name": "Numbers 1",
+    "verses_size": 54
+  },
+  {
+    "book": "Numbers",
+    "chapter": 2,
+    "chapter_name": "Numbers 2",
+    "verses_size": 34
+  },
+  {
+    "book": "Numbers",
+    "chapter": 3,
+    "chapter_name": "Numbers 3",
+    "verses_size": 51
+  },
+  {
+    "book": "Numbers",
+    "chapter": 4,
+    "chapter_name": "Numbers 4",
+    "verses_size": 49
+  },
+  {
+    "book": "Numbers",
+    "chapter": 5,
+    "chapter_name": "Numbers 5",
+    "verses_size": 31
+  },
+  {
+    "book": "Numbers",
+    "chapter": 6,
+    "chapter_name": "Numbers 6",
+    "verses_size": 27
+  },
+  {
+    "book": "Numbers",
+    "chapter": 7,
+    "chapter_name": "Numbers 7",
+    "verses_size": 89
+  },
+  {
+    "book": "Numbers",
+    "chapter": 8,
+    "chapter_name": "Numbers 8",
+    "verses_size": 26
+  },
+  {
+    "book": "Numbers",
+    "chapter": 9,
+    "chapter_name": "Numbers 9",
+    "verses_size": 23
+  },
+  {
+    "book": "Numbers",
+    "chapter": 10,
+    "chapter_name": "Numbers 10",
+    "verses_size": 36
+  },
+  {
+    "book": "Numbers",
+    "chapter": 11,
+    "chapter_name": "Numbers 11",
+    "verses_size": 35
+  },
+  {
+    "book": "Numbers",
+    "chapter": 12,
+    "chapter_name": "Numbers 12",
+    "verses_size": 16
+  },
+  {
+    "book": "Numbers",
+    "chapter": 13,
+    "chapter_name": "Numbers 13",
+    "verses_size": 33
+  },
+  {
+    "book": "Numbers",
+    "chapter": 14,
+    "chapter_name": "Numbers 14",
+    "verses_size": 45
+  },
+  {
+    "book": "Numbers",
+    "chapter": 15,
+    "chapter_name": "Numbers 15",
+    "verses_size": 41
+  },
+  {
+    "book": "Numbers",
+    "chapter": 16,
+    "chapter_name": "Numbers 16",
+    "verses_size": 50
+  },
+  {
+    "book": "Numbers",
+    "chapter": 17,
+    "chapter_name": "Numbers 17",
+    "verses_size": 13
+  },
+  {
+    "book": "Numbers",
+    "chapter": 18,
+    "chapter_name": "Numbers 18",
+    "verses_size": 32
+  },
+  {
+    "book": "Numbers",
+    "chapter": 19,
+    "chapter_name": "Numbers 19",
+    "verses_size": 22
+  },
+  {
+    "book": "Numbers",
+    "chapter": 20,
+    "chapter_name": "Numbers 20",
+    "verses_size": 29
+  },
+  {
+    "book": "Numbers",
+    "chapter": 21,
+    "chapter_name": "Numbers 21",
+    "verses_size": 35
+  },
+  {
+    "book": "Numbers",
+    "chapter": 22,
+    "chapter_name": "Numbers 22",
+    "verses_size": 41
+  },
+  {
+    "book": "Numbers",
+    "chapter": 23,
+    "chapter_name": "Numbers 23",
+    "verses_size": 30
+  },
+  {
+    "book": "Numbers",
+    "chapter": 24,
+    "chapter_name": "Numbers 24",
+    "verses_size": 25
+  },
+  {
+    "book": "Numbers",
+    "chapter": 25,
+    "chapter_name": "Numbers 25",
+    "verses_size": 18
+  },
+  {
+    "book": "Numbers",
+    "chapter": 26,
+    "chapter_name": "Numbers 26",
+    "verses_size": 65
+  },
+  {
+    "book": "Numbers",
+    "chapter": 27,
+    "chapter_name": "Numbers 27",
+    "verses_size": 23
+  },
+  {
+    "book": "Numbers",
+    "chapter": 28,
+    "chapter_name": "Numbers 28",
+    "verses_size": 31
+  },
+  {
+    "book": "Numbers",
+    "chapter": 29,
+    "chapter_name": "Numbers 29",
+    "verses_size": 40
+  },
+  {
+    "book": "Numbers",
+    "chapter": 30,
+    "chapter_name": "Numbers 30",
+    "verses_size": 16
+  },
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "chapter_name": "Numbers 31",
+    "verses_size": 54
+  },
+  {
+    "book": "Numbers",
+    "chapter": 32,
+    "chapter_name": "Numbers 32",
+    "verses_size": 42
+  },
+  {
+    "book": "Numbers",
+    "chapter": 33,
+    "chapter_name": "Numbers 33",
+    "verses_size": 56
+  },
+  {
+    "book": "Numbers",
+    "chapter": 34,
+    "chapter_name": "Numbers 34",
+    "verses_size": 29
+  },
+  {
+    "book": "Numbers",
+    "chapter": 35,
+    "chapter_name": "Numbers 35",
+    "verses_size": 34
+  },
+  {
+    "book": "Numbers",
+    "chapter": 36,
+    "chapter_name": "Numbers 36",
+    "verses_size": 13
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 1,
+    "chapter_name": "Deuteronomy 1",
+    "verses_size": 46
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 2,
+    "chapter_name": "Deuteronomy 2",
+    "verses_size": 37
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 3,
+    "chapter_name": "Deuteronomy 3",
+    "verses_size": 29
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 4,
+    "chapter_name": "Deuteronomy 4",
+    "verses_size": 49
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 5,
+    "chapter_name": "Deuteronomy 5",
+    "verses_size": 33
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 6,
+    "chapter_name": "Deuteronomy 6",
+    "verses_size": 25
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 7,
+    "chapter_name": "Deuteronomy 7",
+    "verses_size": 26
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 8,
+    "chapter_name": "Deuteronomy 8",
+    "verses_size": 20
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 9,
+    "chapter_name": "Deuteronomy 9",
+    "verses_size": 29
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 10,
+    "chapter_name": "Deuteronomy 10",
+    "verses_size": 22
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 11,
+    "chapter_name": "Deuteronomy 11",
+    "verses_size": 32
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 12,
+    "chapter_name": "Deuteronomy 12",
+    "verses_size": 32
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 13,
+    "chapter_name": "Deuteronomy 13",
+    "verses_size": 18
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 14,
+    "chapter_name": "Deuteronomy 14",
+    "verses_size": 29
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 15,
+    "chapter_name": "Deuteronomy 15",
+    "verses_size": 23
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 16,
+    "chapter_name": "Deuteronomy 16",
+    "verses_size": 22
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 17,
+    "chapter_name": "Deuteronomy 17",
+    "verses_size": 20
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 18,
+    "chapter_name": "Deuteronomy 18",
+    "verses_size": 22
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 19,
+    "chapter_name": "Deuteronomy 19",
+    "verses_size": 21
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 20,
+    "chapter_name": "Deuteronomy 20",
+    "verses_size": 20
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 21,
+    "chapter_name": "Deuteronomy 21",
+    "verses_size": 23
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 22,
+    "chapter_name": "Deuteronomy 22",
+    "verses_size": 30
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 23,
+    "chapter_name": "Deuteronomy 23",
+    "verses_size": 25
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 24,
+    "chapter_name": "Deuteronomy 24",
+    "verses_size": 22
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 25,
+    "chapter_name": "Deuteronomy 25",
+    "verses_size": 19
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 26,
+    "chapter_name": "Deuteronomy 26",
+    "verses_size": 19
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 27,
+    "chapter_name": "Deuteronomy 27",
+    "verses_size": 26
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 28,
+    "chapter_name": "Deuteronomy 28",
+    "verses_size": 68
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 29,
+    "chapter_name": "Deuteronomy 29",
+    "verses_size": 29
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 30,
+    "chapter_name": "Deuteronomy 30",
+    "verses_size": 20
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 31,
+    "chapter_name": "Deuteronomy 31",
+    "verses_size": 30
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 32,
+    "chapter_name": "Deuteronomy 32",
+    "verses_size": 52
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 33,
+    "chapter_name": "Deuteronomy 33",
+    "verses_size": 29
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 34,
+    "chapter_name": "Deuteronomy 34",
+    "verses_size": 12
+  },
+  {
+    "book": "Joshua",
+    "chapter": 1,
+    "chapter_name": "Joshua 1",
+    "verses_size": 18
+  },
+  {
+    "book": "Joshua",
+    "chapter": 2,
+    "chapter_name": "Joshua 2",
+    "verses_size": 24
+  },
+  {
+    "book": "Joshua",
+    "chapter": 3,
+    "chapter_name": "Joshua 3",
+    "verses_size": 17
+  },
+  {
+    "book": "Joshua",
+    "chapter": 4,
+    "chapter_name": "Joshua 4",
+    "verses_size": 24
+  },
+  {
+    "book": "Joshua",
+    "chapter": 5,
+    "chapter_name": "Joshua 5",
+    "verses_size": 15
+  },
+  {
+    "book": "Joshua",
+    "chapter": 6,
+    "chapter_name": "Joshua 6",
+    "verses_size": 27
+  },
+  {
+    "book": "Joshua",
+    "chapter": 7,
+    "chapter_name": "Joshua 7",
+    "verses_size": 26
+  },
+  {
+    "book": "Joshua",
+    "chapter": 8,
+    "chapter_name": "Joshua 8",
+    "verses_size": 35
+  },
+  {
+    "book": "Joshua",
+    "chapter": 9,
+    "chapter_name": "Joshua 9",
+    "verses_size": 27
+  },
+  {
+    "book": "Joshua",
+    "chapter": 10,
+    "chapter_name": "Joshua 10",
+    "verses_size": 43
+  },
+  {
+    "book": "Joshua",
+    "chapter": 11,
+    "chapter_name": "Joshua 11",
+    "verses_size": 23
+  },
+  {
+    "book": "Joshua",
+    "chapter": 12,
+    "chapter_name": "Joshua 12",
+    "verses_size": 24
+  },
+  {
+    "book": "Joshua",
+    "chapter": 13,
+    "chapter_name": "Joshua 13",
+    "verses_size": 33
+  },
+  {
+    "book": "Joshua",
+    "chapter": 14,
+    "chapter_name": "Joshua 14",
+    "verses_size": 15
+  },
+  {
+    "book": "Joshua",
+    "chapter": 15,
+    "chapter_name": "Joshua 15",
+    "verses_size": 63
+  },
+  {
+    "book": "Joshua",
+    "chapter": 16,
+    "chapter_name": "Joshua 16",
+    "verses_size": 10
+  },
+  {
+    "book": "Joshua",
+    "chapter": 17,
+    "chapter_name": "Joshua 17",
+    "verses_size": 18
+  },
+  {
+    "book": "Joshua",
+    "chapter": 18,
+    "chapter_name": "Joshua 18",
+    "verses_size": 28
+  },
+  {
+    "book": "Joshua",
+    "chapter": 19,
+    "chapter_name": "Joshua 19",
+    "verses_size": 51
+  },
+  {
+    "book": "Joshua",
+    "chapter": 20,
+    "chapter_name": "Joshua 20",
+    "verses_size": 9
+  },
+  {
+    "book": "Joshua",
+    "chapter": 21,
+    "chapter_name": "Joshua 21",
+    "verses_size": 45
+  },
+  {
+    "book": "Joshua",
+    "chapter": 22,
+    "chapter_name": "Joshua 22",
+    "verses_size": 34
+  },
+  {
+    "book": "Joshua",
+    "chapter": 23,
+    "chapter_name": "Joshua 23",
+    "verses_size": 16
+  },
+  {
+    "book": "Joshua",
+    "chapter": 24,
+    "chapter_name": "Joshua 24",
+    "verses_size": 33
+  },
+  {
+    "book": "Judges",
+    "chapter": 1,
+    "chapter_name": "Judges 1",
+    "verses_size": 36
+  },
+  {
+    "book": "Judges",
+    "chapter": 2,
+    "chapter_name": "Judges 2",
+    "verses_size": 23
+  },
+  {
+    "book": "Judges",
+    "chapter": 3,
+    "chapter_name": "Judges 3",
+    "verses_size": 31
+  },
+  {
+    "book": "Judges",
+    "chapter": 4,
+    "chapter_name": "Judges 4",
+    "verses_size": 24
+  },
+  {
+    "book": "Judges",
+    "chapter": 5,
+    "chapter_name": "Judges 5",
+    "verses_size": 31
+  },
+  {
+    "book": "Judges",
+    "chapter": 6,
+    "chapter_name": "Judges 6",
+    "verses_size": 40
+  },
+  {
+    "book": "Judges",
+    "chapter": 7,
+    "chapter_name": "Judges 7",
+    "verses_size": 25
+  },
+  {
+    "book": "Judges",
+    "chapter": 8,
+    "chapter_name": "Judges 8",
+    "verses_size": 35
+  },
+  {
+    "book": "Judges",
+    "chapter": 9,
+    "chapter_name": "Judges 9",
+    "verses_size": 57
+  },
+  {
+    "book": "Judges",
+    "chapter": 10,
+    "chapter_name": "Judges 10",
+    "verses_size": 18
+  },
+  {
+    "book": "Judges",
+    "chapter": 11,
+    "chapter_name": "Judges 11",
+    "verses_size": 40
+  },
+  {
+    "book": "Judges",
+    "chapter": 12,
+    "chapter_name": "Judges 12",
+    "verses_size": 15
+  },
+  {
+    "book": "Judges",
+    "chapter": 13,
+    "chapter_name": "Judges 13",
+    "verses_size": 25
+  },
+  {
+    "book": "Judges",
+    "chapter": 14,
+    "chapter_name": "Judges 14",
+    "verses_size": 20
+  },
+  {
+    "book": "Judges",
+    "chapter": 15,
+    "chapter_name": "Judges 15",
+    "verses_size": 20
+  },
+  {
+    "book": "Judges",
+    "chapter": 16,
+    "chapter_name": "Judges 16",
+    "verses_size": 31
+  },
+  {
+    "book": "Judges",
+    "chapter": 17,
+    "chapter_name": "Judges 17",
+    "verses_size": 13
+  },
+  {
+    "book": "Judges",
+    "chapter": 18,
+    "chapter_name": "Judges 18",
+    "verses_size": 31
+  },
+  {
+    "book": "Judges",
+    "chapter": 19,
+    "chapter_name": "Judges 19",
+    "verses_size": 30
+  },
+  {
+    "book": "Judges",
+    "chapter": 20,
+    "chapter_name": "Judges 20",
+    "verses_size": 48
+  },
+  {
+    "book": "Judges",
+    "chapter": 21,
+    "chapter_name": "Judges 21",
+    "verses_size": 25
+  },
+  { "book": "Ruth", "chapter": 1, "chapter_name": "Ruth 1", "verses_size": 22 },
+  { "book": "Ruth", "chapter": 2, "chapter_name": "Ruth 2", "verses_size": 23 },
+  { "book": "Ruth", "chapter": 3, "chapter_name": "Ruth 3", "verses_size": 18 },
+  { "book": "Ruth", "chapter": 4, "chapter_name": "Ruth 4", "verses_size": 22 },
+  {
+    "book": "1 Samuel",
+    "chapter": 1,
+    "chapter_name": "1 Samuel 1",
+    "verses_size": 28
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 2,
+    "chapter_name": "1 Samuel 2",
+    "verses_size": 36
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 3,
+    "chapter_name": "1 Samuel 3",
+    "verses_size": 21
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 4,
+    "chapter_name": "1 Samuel 4",
+    "verses_size": 22
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 5,
+    "chapter_name": "1 Samuel 5",
+    "verses_size": 12
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 6,
+    "chapter_name": "1 Samuel 6",
+    "verses_size": 21
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 7,
+    "chapter_name": "1 Samuel 7",
+    "verses_size": 17
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 8,
+    "chapter_name": "1 Samuel 8",
+    "verses_size": 22
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 9,
+    "chapter_name": "1 Samuel 9",
+    "verses_size": 27
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 10,
+    "chapter_name": "1 Samuel 10",
+    "verses_size": 27
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 11,
+    "chapter_name": "1 Samuel 11",
+    "verses_size": 15
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 12,
+    "chapter_name": "1 Samuel 12",
+    "verses_size": 25
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 13,
+    "chapter_name": "1 Samuel 13",
+    "verses_size": 23
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 14,
+    "chapter_name": "1 Samuel 14",
+    "verses_size": 52
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 15,
+    "chapter_name": "1 Samuel 15",
+    "verses_size": 35
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 16,
+    "chapter_name": "1 Samuel 16",
+    "verses_size": 23
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "chapter_name": "1 Samuel 17",
+    "verses_size": 58
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 18,
+    "chapter_name": "1 Samuel 18",
+    "verses_size": 30
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 19,
+    "chapter_name": "1 Samuel 19",
+    "verses_size": 24
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 20,
+    "chapter_name": "1 Samuel 20",
+    "verses_size": 42
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 21,
+    "chapter_name": "1 Samuel 21",
+    "verses_size": 15
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 22,
+    "chapter_name": "1 Samuel 22",
+    "verses_size": 23
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 23,
+    "chapter_name": "1 Samuel 23",
+    "verses_size": 29
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 24,
+    "chapter_name": "1 Samuel 24",
+    "verses_size": 22
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 25,
+    "chapter_name": "1 Samuel 25",
+    "verses_size": 44
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 26,
+    "chapter_name": "1 Samuel 26",
+    "verses_size": 25
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 27,
+    "chapter_name": "1 Samuel 27",
+    "verses_size": 12
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 28,
+    "chapter_name": "1 Samuel 28",
+    "verses_size": 25
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 29,
+    "chapter_name": "1 Samuel 29",
+    "verses_size": 11
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 30,
+    "chapter_name": "1 Samuel 30",
+    "verses_size": 31
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 31,
+    "chapter_name": "1 Samuel 31",
+    "verses_size": 13
+  },
+  {
+    "book": "2 Samuel",
+    "chapter": 1,
+    "chapter_name": "2 Samuel 1",
+    "verses_size": 27
+  },
+  {
+    "book": "2 Samuel",
+    "chapter": 2,
+    "chapter_name": "2 Samuel 2",
+    "verses_size": 32
+  },
+  {
+    "book": "2 Samuel",
+    "chapter": 3,
+    "chapter_name": "2 Samuel 3",
+    "verses_size": 39
+  },
+  {
+    "book": "2 Samuel",
+    "chapter": 4,
+    "chapter_name": "2 Samuel 4",
+    "verses_size": 12
+  },
+  {
+    "book": "2 Samuel",
+    "chapter": 5,
+    "chapter_name": "2 Samuel 5",
+    "verses_size": 25
+  },
+  {
+    "book": "2 Samuel",
+    "chapter": 6,
+    "chapter_name": "2 Samuel 6",
+    "verses_size": 23
+  },
+  {
+    "book": "2 Samuel",
+    "chapter": 7,
+    "chapter_name": "2 Samuel 7",
+    "verses_size": 29
+  },
+  {
+    "book": "2 Samuel",
+    "chapter": 8,
+    "chapter_name": "2 Samuel 8",
+    "verses_size": 18
+  },
+  {
+    "book": "2 Samuel",
+    "chapter": 9,
+    "chapter_name": "2 Samuel 9",
+    "verses_size": 13
+  },
+  {
+    "book": "2 Samuel",
+    "chapter": 10,
+    "chapter_name": "2 Samuel 10",
+    "verses_size": 19
+  },
+  {
+    "book": "2 Samuel",
+    "chapter": 11,
+    "chapter_name": "2 Samuel 11",
+    "verses_size": 27
+  },
+  {
+    "book": "2 Samuel",
+    "chapter": 12,
+    "chapter_name": "2 Samuel 12",
+    "verses_size": 31
+  },
+  {
+    "book": "2 Samuel",
+    "chapter": 13,
+    "chapter_name": "2 Samuel 13",
+    "verses_size": 39
+  },
+  {
+    "book": "2 Samuel",
+    "chapter": 14,
+    "chapter_name": "2 Samuel 14",
+    "verses_size": 33
+  },
+  {
+    "book": "2 Samuel",
+    "chapter": 15,
+    "chapter_name": "2 Samuel 15",
+    "verses_size": 37
+  },
+  {
+    "book": "2 Samuel",
+    "chapter": 16,
+    "chapter_name": "2 Samuel 16",
+    "verses_size": 23
+  },
+  {
+    "book": "2 Samuel",
+    "chapter": 17,
+    "chapter_name": "2 Samuel 17",
+    "verses_size": 29
+  },
+  {
+    "book": "2 Samuel",
+    "chapter": 18,
+    "chapter_name": "2 Samuel 18",
+    "verses_size": 33
+  },
+  {
+    "book": "2 Samuel",
+    "chapter": 19,
+    "chapter_name": "2 Samuel 19",
+    "verses_size": 43
+  },
+  {
+    "book": "2 Samuel",
+    "chapter": 20,
+    "chapter_name": "2 Samuel 20",
+    "verses_size": 26
+  },
+  {
+    "book": "2 Samuel",
+    "chapter": 21,
+    "chapter_name": "2 Samuel 21",
+    "verses_size": 22
+  },
+  {
+    "book": "2 Samuel",
+    "chapter": 22,
+    "chapter_name": "2 Samuel 22",
+    "verses_size": 51
+  },
+  {
+    "book": "2 Samuel",
+    "chapter": 23,
+    "chapter_name": "2 Samuel 23",
+    "verses_size": 39
+  },
+  {
+    "book": "2 Samuel",
+    "chapter": 24,
+    "chapter_name": "2 Samuel 24",
+    "verses_size": 25
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "chapter_name": "1 Kings 1",
+    "verses_size": 53
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 2,
+    "chapter_name": "1 Kings 2",
+    "verses_size": 46
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 3,
+    "chapter_name": "1 Kings 3",
+    "verses_size": 28
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 4,
+    "chapter_name": "1 Kings 4",
+    "verses_size": 34
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 5,
+    "chapter_name": "1 Kings 5",
+    "verses_size": 18
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 6,
+    "chapter_name": "1 Kings 6",
+    "verses_size": 38
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 7,
+    "chapter_name": "1 Kings 7",
+    "verses_size": 51
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 8,
+    "chapter_name": "1 Kings 8",
+    "verses_size": 66
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 9,
+    "chapter_name": "1 Kings 9",
+    "verses_size": 28
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 10,
+    "chapter_name": "1 Kings 10",
+    "verses_size": 29
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 11,
+    "chapter_name": "1 Kings 11",
+    "verses_size": 43
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 12,
+    "chapter_name": "1 Kings 12",
+    "verses_size": 33
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 13,
+    "chapter_name": "1 Kings 13",
+    "verses_size": 34
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 14,
+    "chapter_name": "1 Kings 14",
+    "verses_size": 31
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 15,
+    "chapter_name": "1 Kings 15",
+    "verses_size": 34
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 16,
+    "chapter_name": "1 Kings 16",
+    "verses_size": 34
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 17,
+    "chapter_name": "1 Kings 17",
+    "verses_size": 24
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 18,
+    "chapter_name": "1 Kings 18",
+    "verses_size": 46
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 19,
+    "chapter_name": "1 Kings 19",
+    "verses_size": 21
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 20,
+    "chapter_name": "1 Kings 20",
+    "verses_size": 43
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 21,
+    "chapter_name": "1 Kings 21",
+    "verses_size": 29
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 22,
+    "chapter_name": "1 Kings 22",
+    "verses_size": 53
+  },
+  {
+    "book": "2 Kings",
+    "chapter": 1,
+    "chapter_name": "2 Kings 1",
+    "verses_size": 18
+  },
+  {
+    "book": "2 Kings",
+    "chapter": 2,
+    "chapter_name": "2 Kings 2",
+    "verses_size": 25
+  },
+  {
+    "book": "2 Kings",
+    "chapter": 3,
+    "chapter_name": "2 Kings 3",
+    "verses_size": 27
+  },
+  {
+    "book": "2 Kings",
+    "chapter": 4,
+    "chapter_name": "2 Kings 4",
+    "verses_size": 44
+  },
+  {
+    "book": "2 Kings",
+    "chapter": 5,
+    "chapter_name": "2 Kings 5",
+    "verses_size": 27
+  },
+  {
+    "book": "2 Kings",
+    "chapter": 6,
+    "chapter_name": "2 Kings 6",
+    "verses_size": 33
+  },
+  {
+    "book": "2 Kings",
+    "chapter": 7,
+    "chapter_name": "2 Kings 7",
+    "verses_size": 20
+  },
+  {
+    "book": "2 Kings",
+    "chapter": 8,
+    "chapter_name": "2 Kings 8",
+    "verses_size": 29
+  },
+  {
+    "book": "2 Kings",
+    "chapter": 9,
+    "chapter_name": "2 Kings 9",
+    "verses_size": 37
+  },
+  {
+    "book": "2 Kings",
+    "chapter": 10,
+    "chapter_name": "2 Kings 10",
+    "verses_size": 36
+  },
+  {
+    "book": "2 Kings",
+    "chapter": 11,
+    "chapter_name": "2 Kings 11",
+    "verses_size": 21
+  },
+  {
+    "book": "2 Kings",
+    "chapter": 12,
+    "chapter_name": "2 Kings 12",
+    "verses_size": 21
+  },
+  {
+    "book": "2 Kings",
+    "chapter": 13,
+    "chapter_name": "2 Kings 13",
+    "verses_size": 25
+  },
+  {
+    "book": "2 Kings",
+    "chapter": 14,
+    "chapter_name": "2 Kings 14",
+    "verses_size": 29
+  },
+  {
+    "book": "2 Kings",
+    "chapter": 15,
+    "chapter_name": "2 Kings 15",
+    "verses_size": 38
+  },
+  {
+    "book": "2 Kings",
+    "chapter": 16,
+    "chapter_name": "2 Kings 16",
+    "verses_size": 20
+  },
+  {
+    "book": "2 Kings",
+    "chapter": 17,
+    "chapter_name": "2 Kings 17",
+    "verses_size": 41
+  },
+  {
+    "book": "2 Kings",
+    "chapter": 18,
+    "chapter_name": "2 Kings 18",
+    "verses_size": 37
+  },
+  {
+    "book": "2 Kings",
+    "chapter": 19,
+    "chapter_name": "2 Kings 19",
+    "verses_size": 37
+  },
+  {
+    "book": "2 Kings",
+    "chapter": 20,
+    "chapter_name": "2 Kings 20",
+    "verses_size": 21
+  },
+  {
+    "book": "2 Kings",
+    "chapter": 21,
+    "chapter_name": "2 Kings 21",
+    "verses_size": 26
+  },
+  {
+    "book": "2 Kings",
+    "chapter": 22,
+    "chapter_name": "2 Kings 22",
+    "verses_size": 20
+  },
+  {
+    "book": "2 Kings",
+    "chapter": 23,
+    "chapter_name": "2 Kings 23",
+    "verses_size": 37
+  },
+  {
+    "book": "2 Kings",
+    "chapter": 24,
+    "chapter_name": "2 Kings 24",
+    "verses_size": 20
+  },
+  {
+    "book": "2 Kings",
+    "chapter": 25,
+    "chapter_name": "2 Kings 25",
+    "verses_size": 30
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 1,
+    "chapter_name": "1 Chronicles 1",
+    "verses_size": 54
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 2,
+    "chapter_name": "1 Chronicles 2",
+    "verses_size": 55
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 3,
+    "chapter_name": "1 Chronicles 3",
+    "verses_size": 24
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 4,
+    "chapter_name": "1 Chronicles 4",
+    "verses_size": 43
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 5,
+    "chapter_name": "1 Chronicles 5",
+    "verses_size": 26
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 6,
+    "chapter_name": "1 Chronicles 6",
+    "verses_size": 81
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 7,
+    "chapter_name": "1 Chronicles 7",
+    "verses_size": 40
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 8,
+    "chapter_name": "1 Chronicles 8",
+    "verses_size": 40
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 9,
+    "chapter_name": "1 Chronicles 9",
+    "verses_size": 44
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 10,
+    "chapter_name": "1 Chronicles 10",
+    "verses_size": 14
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 11,
+    "chapter_name": "1 Chronicles 11",
+    "verses_size": 47
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 12,
+    "chapter_name": "1 Chronicles 12",
+    "verses_size": 40
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 13,
+    "chapter_name": "1 Chronicles 13",
+    "verses_size": 14
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 14,
+    "chapter_name": "1 Chronicles 14",
+    "verses_size": 17
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 15,
+    "chapter_name": "1 Chronicles 15",
+    "verses_size": 29
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 16,
+    "chapter_name": "1 Chronicles 16",
+    "verses_size": 43
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 17,
+    "chapter_name": "1 Chronicles 17",
+    "verses_size": 27
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 18,
+    "chapter_name": "1 Chronicles 18",
+    "verses_size": 17
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 19,
+    "chapter_name": "1 Chronicles 19",
+    "verses_size": 19
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 20,
+    "chapter_name": "1 Chronicles 20",
+    "verses_size": 8
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 21,
+    "chapter_name": "1 Chronicles 21",
+    "verses_size": 30
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 22,
+    "chapter_name": "1 Chronicles 22",
+    "verses_size": 19
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 23,
+    "chapter_name": "1 Chronicles 23",
+    "verses_size": 32
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 24,
+    "chapter_name": "1 Chronicles 24",
+    "verses_size": 31
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 25,
+    "chapter_name": "1 Chronicles 25",
+    "verses_size": 31
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 26,
+    "chapter_name": "1 Chronicles 26",
+    "verses_size": 32
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 27,
+    "chapter_name": "1 Chronicles 27",
+    "verses_size": 34
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 28,
+    "chapter_name": "1 Chronicles 28",
+    "verses_size": 21
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 29,
+    "chapter_name": "1 Chronicles 29",
+    "verses_size": 30
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 1,
+    "chapter_name": "2 Chronicles 1",
+    "verses_size": 17
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 2,
+    "chapter_name": "2 Chronicles 2",
+    "verses_size": 18
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 3,
+    "chapter_name": "2 Chronicles 3",
+    "verses_size": 17
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 4,
+    "chapter_name": "2 Chronicles 4",
+    "verses_size": 22
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 5,
+    "chapter_name": "2 Chronicles 5",
+    "verses_size": 14
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 6,
+    "chapter_name": "2 Chronicles 6",
+    "verses_size": 42
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 7,
+    "chapter_name": "2 Chronicles 7",
+    "verses_size": 22
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 8,
+    "chapter_name": "2 Chronicles 8",
+    "verses_size": 18
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 9,
+    "chapter_name": "2 Chronicles 9",
+    "verses_size": 31
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 10,
+    "chapter_name": "2 Chronicles 10",
+    "verses_size": 19
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 11,
+    "chapter_name": "2 Chronicles 11",
+    "verses_size": 23
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 12,
+    "chapter_name": "2 Chronicles 12",
+    "verses_size": 16
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 13,
+    "chapter_name": "2 Chronicles 13",
+    "verses_size": 22
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 14,
+    "chapter_name": "2 Chronicles 14",
+    "verses_size": 15
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 15,
+    "chapter_name": "2 Chronicles 15",
+    "verses_size": 19
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 16,
+    "chapter_name": "2 Chronicles 16",
+    "verses_size": 14
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 17,
+    "chapter_name": "2 Chronicles 17",
+    "verses_size": 19
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 18,
+    "chapter_name": "2 Chronicles 18",
+    "verses_size": 34
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 19,
+    "chapter_name": "2 Chronicles 19",
+    "verses_size": 11
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 20,
+    "chapter_name": "2 Chronicles 20",
+    "verses_size": 37
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 21,
+    "chapter_name": "2 Chronicles 21",
+    "verses_size": 20
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 22,
+    "chapter_name": "2 Chronicles 22",
+    "verses_size": 12
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 23,
+    "chapter_name": "2 Chronicles 23",
+    "verses_size": 21
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 24,
+    "chapter_name": "2 Chronicles 24",
+    "verses_size": 27
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 25,
+    "chapter_name": "2 Chronicles 25",
+    "verses_size": 28
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 26,
+    "chapter_name": "2 Chronicles 26",
+    "verses_size": 23
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 27,
+    "chapter_name": "2 Chronicles 27",
+    "verses_size": 9
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 28,
+    "chapter_name": "2 Chronicles 28",
+    "verses_size": 27
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 29,
+    "chapter_name": "2 Chronicles 29",
+    "verses_size": 36
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 30,
+    "chapter_name": "2 Chronicles 30",
+    "verses_size": 27
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 31,
+    "chapter_name": "2 Chronicles 31",
+    "verses_size": 21
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 32,
+    "chapter_name": "2 Chronicles 32",
+    "verses_size": 33
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 33,
+    "chapter_name": "2 Chronicles 33",
+    "verses_size": 25
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 34,
+    "chapter_name": "2 Chronicles 34",
+    "verses_size": 33
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 35,
+    "chapter_name": "2 Chronicles 35",
+    "verses_size": 27
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 36,
+    "chapter_name": "2 Chronicles 36",
+    "verses_size": 23
+  },
+  { "book": "Ezra", "chapter": 1, "chapter_name": "Ezra 1", "verses_size": 11 },
+  { "book": "Ezra", "chapter": 2, "chapter_name": "Ezra 2", "verses_size": 70 },
+  { "book": "Ezra", "chapter": 3, "chapter_name": "Ezra 3", "verses_size": 13 },
+  { "book": "Ezra", "chapter": 4, "chapter_name": "Ezra 4", "verses_size": 24 },
+  { "book": "Ezra", "chapter": 5, "chapter_name": "Ezra 5", "verses_size": 17 },
+  { "book": "Ezra", "chapter": 6, "chapter_name": "Ezra 6", "verses_size": 22 },
+  { "book": "Ezra", "chapter": 7, "chapter_name": "Ezra 7", "verses_size": 28 },
+  { "book": "Ezra", "chapter": 8, "chapter_name": "Ezra 8", "verses_size": 36 },
+  { "book": "Ezra", "chapter": 9, "chapter_name": "Ezra 9", "verses_size": 15 },
+  {
+    "book": "Ezra",
+    "chapter": 10,
+    "chapter_name": "Ezra 10",
+    "verses_size": 44
+  },
+  {
+    "book": "Nehemiah",
+    "chapter": 1,
+    "chapter_name": "Nehemiah 1",
+    "verses_size": 11
+  },
+  {
+    "book": "Nehemiah",
+    "chapter": 2,
+    "chapter_name": "Nehemiah 2",
+    "verses_size": 20
+  },
+  {
+    "book": "Nehemiah",
+    "chapter": 3,
+    "chapter_name": "Nehemiah 3",
+    "verses_size": 32
+  },
+  {
+    "book": "Nehemiah",
+    "chapter": 4,
+    "chapter_name": "Nehemiah 4",
+    "verses_size": 23
+  },
+  {
+    "book": "Nehemiah",
+    "chapter": 5,
+    "chapter_name": "Nehemiah 5",
+    "verses_size": 19
+  },
+  {
+    "book": "Nehemiah",
+    "chapter": 6,
+    "chapter_name": "Nehemiah 6",
+    "verses_size": 19
+  },
+  {
+    "book": "Nehemiah",
+    "chapter": 7,
+    "chapter_name": "Nehemiah 7",
+    "verses_size": 73
+  },
+  {
+    "book": "Nehemiah",
+    "chapter": 8,
+    "chapter_name": "Nehemiah 8",
+    "verses_size": 18
+  },
+  {
+    "book": "Nehemiah",
+    "chapter": 9,
+    "chapter_name": "Nehemiah 9",
+    "verses_size": 38
+  },
+  {
+    "book": "Nehemiah",
+    "chapter": 10,
+    "chapter_name": "Nehemiah 10",
+    "verses_size": 39
+  },
+  {
+    "book": "Nehemiah",
+    "chapter": 11,
+    "chapter_name": "Nehemiah 11",
+    "verses_size": 36
+  },
+  {
+    "book": "Nehemiah",
+    "chapter": 12,
+    "chapter_name": "Nehemiah 12",
+    "verses_size": 47
+  },
+  {
+    "book": "Nehemiah",
+    "chapter": 13,
+    "chapter_name": "Nehemiah 13",
+    "verses_size": 31
+  },
+  {
+    "book": "Esther",
+    "chapter": 1,
+    "chapter_name": "Esther 1",
+    "verses_size": 22
+  },
+  {
+    "book": "Esther",
+    "chapter": 2,
+    "chapter_name": "Esther 2",
+    "verses_size": 23
+  },
+  {
+    "book": "Esther",
+    "chapter": 3,
+    "chapter_name": "Esther 3",
+    "verses_size": 15
+  },
+  {
+    "book": "Esther",
+    "chapter": 4,
+    "chapter_name": "Esther 4",
+    "verses_size": 17
+  },
+  {
+    "book": "Esther",
+    "chapter": 5,
+    "chapter_name": "Esther 5",
+    "verses_size": 14
+  },
+  {
+    "book": "Esther",
+    "chapter": 6,
+    "chapter_name": "Esther 6",
+    "verses_size": 14
+  },
+  {
+    "book": "Esther",
+    "chapter": 7,
+    "chapter_name": "Esther 7",
+    "verses_size": 10
+  },
+  {
+    "book": "Esther",
+    "chapter": 8,
+    "chapter_name": "Esther 8",
+    "verses_size": 17
+  },
+  {
+    "book": "Esther",
+    "chapter": 9,
+    "chapter_name": "Esther 9",
+    "verses_size": 32
+  },
+  {
+    "book": "Esther",
+    "chapter": 10,
+    "chapter_name": "Esther 10",
+    "verses_size": 3
+  },
+  { "book": "Job", "chapter": 1, "chapter_name": "Job 1", "verses_size": 22 },
+  { "book": "Job", "chapter": 2, "chapter_name": "Job 2", "verses_size": 13 },
+  { "book": "Job", "chapter": 3, "chapter_name": "Job 3", "verses_size": 26 },
+  { "book": "Job", "chapter": 4, "chapter_name": "Job 4", "verses_size": 21 },
+  { "book": "Job", "chapter": 5, "chapter_name": "Job 5", "verses_size": 27 },
+  { "book": "Job", "chapter": 6, "chapter_name": "Job 6", "verses_size": 30 },
+  { "book": "Job", "chapter": 7, "chapter_name": "Job 7", "verses_size": 21 },
+  { "book": "Job", "chapter": 8, "chapter_name": "Job 8", "verses_size": 22 },
+  { "book": "Job", "chapter": 9, "chapter_name": "Job 9", "verses_size": 35 },
+  { "book": "Job", "chapter": 10, "chapter_name": "Job 10", "verses_size": 22 },
+  { "book": "Job", "chapter": 11, "chapter_name": "Job 11", "verses_size": 20 },
+  { "book": "Job", "chapter": 12, "chapter_name": "Job 12", "verses_size": 25 },
+  { "book": "Job", "chapter": 13, "chapter_name": "Job 13", "verses_size": 28 },
+  { "book": "Job", "chapter": 14, "chapter_name": "Job 14", "verses_size": 22 },
+  { "book": "Job", "chapter": 15, "chapter_name": "Job 15", "verses_size": 35 },
+  { "book": "Job", "chapter": 16, "chapter_name": "Job 16", "verses_size": 22 },
+  { "book": "Job", "chapter": 17, "chapter_name": "Job 17", "verses_size": 16 },
+  { "book": "Job", "chapter": 18, "chapter_name": "Job 18", "verses_size": 21 },
+  { "book": "Job", "chapter": 19, "chapter_name": "Job 19", "verses_size": 29 },
+  { "book": "Job", "chapter": 20, "chapter_name": "Job 20", "verses_size": 29 },
+  { "book": "Job", "chapter": 21, "chapter_name": "Job 21", "verses_size": 34 },
+  { "book": "Job", "chapter": 22, "chapter_name": "Job 22", "verses_size": 30 },
+  { "book": "Job", "chapter": 23, "chapter_name": "Job 23", "verses_size": 17 },
+  { "book": "Job", "chapter": 24, "chapter_name": "Job 24", "verses_size": 25 },
+  { "book": "Job", "chapter": 25, "chapter_name": "Job 25", "verses_size": 6 },
+  { "book": "Job", "chapter": 26, "chapter_name": "Job 26", "verses_size": 14 },
+  { "book": "Job", "chapter": 27, "chapter_name": "Job 27", "verses_size": 23 },
+  { "book": "Job", "chapter": 28, "chapter_name": "Job 28", "verses_size": 28 },
+  { "book": "Job", "chapter": 29, "chapter_name": "Job 29", "verses_size": 25 },
+  { "book": "Job", "chapter": 30, "chapter_name": "Job 30", "verses_size": 31 },
+  { "book": "Job", "chapter": 31, "chapter_name": "Job 31", "verses_size": 40 },
+  { "book": "Job", "chapter": 32, "chapter_name": "Job 32", "verses_size": 22 },
+  { "book": "Job", "chapter": 33, "chapter_name": "Job 33", "verses_size": 33 },
+  { "book": "Job", "chapter": 34, "chapter_name": "Job 34", "verses_size": 37 },
+  { "book": "Job", "chapter": 35, "chapter_name": "Job 35", "verses_size": 16 },
+  { "book": "Job", "chapter": 36, "chapter_name": "Job 36", "verses_size": 33 },
+  { "book": "Job", "chapter": 37, "chapter_name": "Job 37", "verses_size": 24 },
+  { "book": "Job", "chapter": 38, "chapter_name": "Job 38", "verses_size": 41 },
+  { "book": "Job", "chapter": 39, "chapter_name": "Job 39", "verses_size": 30 },
+  { "book": "Job", "chapter": 40, "chapter_name": "Job 40", "verses_size": 24 },
+  { "book": "Job", "chapter": 41, "chapter_name": "Job 41", "verses_size": 34 },
+  { "book": "Job", "chapter": 42, "chapter_name": "Job 42", "verses_size": 17 },
+  {
+    "book": "Psalms",
+    "chapter": 1,
+    "chapter_name": "Psalms 1",
+    "verses_size": 6
+  },
+  {
+    "book": "Psalms",
+    "chapter": 2,
+    "chapter_name": "Psalms 2",
+    "verses_size": 12
+  },
+  {
+    "book": "Psalms",
+    "chapter": 3,
+    "chapter_name": "Psalms 3",
+    "verses_size": 8
+  },
+  {
+    "book": "Psalms",
+    "chapter": 4,
+    "chapter_name": "Psalms 4",
+    "verses_size": 8
+  },
+  {
+    "book": "Psalms",
+    "chapter": 5,
+    "chapter_name": "Psalms 5",
+    "verses_size": 12
+  },
+  {
+    "book": "Psalms",
+    "chapter": 6,
+    "chapter_name": "Psalms 6",
+    "verses_size": 10
+  },
+  {
+    "book": "Psalms",
+    "chapter": 7,
+    "chapter_name": "Psalms 7",
+    "verses_size": 17
+  },
+  {
+    "book": "Psalms",
+    "chapter": 8,
+    "chapter_name": "Psalms 8",
+    "verses_size": 9
+  },
+  {
+    "book": "Psalms",
+    "chapter": 9,
+    "chapter_name": "Psalms 9",
+    "verses_size": 20
+  },
+  {
+    "book": "Psalms",
+    "chapter": 10,
+    "chapter_name": "Psalms 10",
+    "verses_size": 18
+  },
+  {
+    "book": "Psalms",
+    "chapter": 11,
+    "chapter_name": "Psalms 11",
+    "verses_size": 7
+  },
+  {
+    "book": "Psalms",
+    "chapter": 12,
+    "chapter_name": "Psalms 12",
+    "verses_size": 8
+  },
+  {
+    "book": "Psalms",
+    "chapter": 13,
+    "chapter_name": "Psalms 13",
+    "verses_size": 6
+  },
+  {
+    "book": "Psalms",
+    "chapter": 14,
+    "chapter_name": "Psalms 14",
+    "verses_size": 7
+  },
+  {
+    "book": "Psalms",
+    "chapter": 15,
+    "chapter_name": "Psalms 15",
+    "verses_size": 5
+  },
+  {
+    "book": "Psalms",
+    "chapter": 16,
+    "chapter_name": "Psalms 16",
+    "verses_size": 11
+  },
+  {
+    "book": "Psalms",
+    "chapter": 17,
+    "chapter_name": "Psalms 17",
+    "verses_size": 15
+  },
+  {
+    "book": "Psalms",
+    "chapter": 18,
+    "chapter_name": "Psalms 18",
+    "verses_size": 50
+  },
+  {
+    "book": "Psalms",
+    "chapter": 19,
+    "chapter_name": "Psalms 19",
+    "verses_size": 14
+  },
+  {
+    "book": "Psalms",
+    "chapter": 20,
+    "chapter_name": "Psalms 20",
+    "verses_size": 9
+  },
+  {
+    "book": "Psalms",
+    "chapter": 21,
+    "chapter_name": "Psalms 21",
+    "verses_size": 13
+  },
+  {
+    "book": "Psalms",
+    "chapter": 22,
+    "chapter_name": "Psalms 22",
+    "verses_size": 31
+  },
+  {
+    "book": "Psalms",
+    "chapter": 23,
+    "chapter_name": "Psalms 23",
+    "verses_size": 6
+  },
+  {
+    "book": "Psalms",
+    "chapter": 24,
+    "chapter_name": "Psalms 24",
+    "verses_size": 10
+  },
+  {
+    "book": "Psalms",
+    "chapter": 25,
+    "chapter_name": "Psalms 25",
+    "verses_size": 22
+  },
+  {
+    "book": "Psalms",
+    "chapter": 26,
+    "chapter_name": "Psalms 26",
+    "verses_size": 12
+  },
+  {
+    "book": "Psalms",
+    "chapter": 27,
+    "chapter_name": "Psalms 27",
+    "verses_size": 14
+  },
+  {
+    "book": "Psalms",
+    "chapter": 28,
+    "chapter_name": "Psalms 28",
+    "verses_size": 9
+  },
+  {
+    "book": "Psalms",
+    "chapter": 29,
+    "chapter_name": "Psalms 29",
+    "verses_size": 11
+  },
+  {
+    "book": "Psalms",
+    "chapter": 30,
+    "chapter_name": "Psalms 30",
+    "verses_size": 12
+  },
+  {
+    "book": "Psalms",
+    "chapter": 31,
+    "chapter_name": "Psalms 31",
+    "verses_size": 24
+  },
+  {
+    "book": "Psalms",
+    "chapter": 32,
+    "chapter_name": "Psalms 32",
+    "verses_size": 11
+  },
+  {
+    "book": "Psalms",
+    "chapter": 33,
+    "chapter_name": "Psalms 33",
+    "verses_size": 22
+  },
+  {
+    "book": "Psalms",
+    "chapter": 34,
+    "chapter_name": "Psalms 34",
+    "verses_size": 22
+  },
+  {
+    "book": "Psalms",
+    "chapter": 35,
+    "chapter_name": "Psalms 35",
+    "verses_size": 28
+  },
+  {
+    "book": "Psalms",
+    "chapter": 36,
+    "chapter_name": "Psalms 36",
+    "verses_size": 12
+  },
+  {
+    "book": "Psalms",
+    "chapter": 37,
+    "chapter_name": "Psalms 37",
+    "verses_size": 40
+  },
+  {
+    "book": "Psalms",
+    "chapter": 38,
+    "chapter_name": "Psalms 38",
+    "verses_size": 22
+  },
+  {
+    "book": "Psalms",
+    "chapter": 39,
+    "chapter_name": "Psalms 39",
+    "verses_size": 13
+  },
+  {
+    "book": "Psalms",
+    "chapter": 40,
+    "chapter_name": "Psalms 40",
+    "verses_size": 17
+  },
+  {
+    "book": "Psalms",
+    "chapter": 41,
+    "chapter_name": "Psalms 41",
+    "verses_size": 13
+  },
+  {
+    "book": "Psalms",
+    "chapter": 42,
+    "chapter_name": "Psalms 42",
+    "verses_size": 11
+  },
+  {
+    "book": "Psalms",
+    "chapter": 43,
+    "chapter_name": "Psalms 43",
+    "verses_size": 5
+  },
+  {
+    "book": "Psalms",
+    "chapter": 44,
+    "chapter_name": "Psalms 44",
+    "verses_size": 26
+  },
+  {
+    "book": "Psalms",
+    "chapter": 45,
+    "chapter_name": "Psalms 45",
+    "verses_size": 17
+  },
+  {
+    "book": "Psalms",
+    "chapter": 46,
+    "chapter_name": "Psalms 46",
+    "verses_size": 11
+  },
+  {
+    "book": "Psalms",
+    "chapter": 47,
+    "chapter_name": "Psalms 47",
+    "verses_size": 9
+  },
+  {
+    "book": "Psalms",
+    "chapter": 48,
+    "chapter_name": "Psalms 48",
+    "verses_size": 14
+  },
+  {
+    "book": "Psalms",
+    "chapter": 49,
+    "chapter_name": "Psalms 49",
+    "verses_size": 20
+  },
+  {
+    "book": "Psalms",
+    "chapter": 50,
+    "chapter_name": "Psalms 50",
+    "verses_size": 23
+  },
+  {
+    "book": "Psalms",
+    "chapter": 51,
+    "chapter_name": "Psalms 51",
+    "verses_size": 19
+  },
+  {
+    "book": "Psalms",
+    "chapter": 52,
+    "chapter_name": "Psalms 52",
+    "verses_size": 9
+  },
+  {
+    "book": "Psalms",
+    "chapter": 53,
+    "chapter_name": "Psalms 53",
+    "verses_size": 6
+  },
+  {
+    "book": "Psalms",
+    "chapter": 54,
+    "chapter_name": "Psalms 54",
+    "verses_size": 7
+  },
+  {
+    "book": "Psalms",
+    "chapter": 55,
+    "chapter_name": "Psalms 55",
+    "verses_size": 23
+  },
+  {
+    "book": "Psalms",
+    "chapter": 56,
+    "chapter_name": "Psalms 56",
+    "verses_size": 13
+  },
+  {
+    "book": "Psalms",
+    "chapter": 57,
+    "chapter_name": "Psalms 57",
+    "verses_size": 11
+  },
+  {
+    "book": "Psalms",
+    "chapter": 58,
+    "chapter_name": "Psalms 58",
+    "verses_size": 11
+  },
+  {
+    "book": "Psalms",
+    "chapter": 59,
+    "chapter_name": "Psalms 59",
+    "verses_size": 17
+  },
+  {
+    "book": "Psalms",
+    "chapter": 60,
+    "chapter_name": "Psalms 60",
+    "verses_size": 12
+  },
+  {
+    "book": "Psalms",
+    "chapter": 61,
+    "chapter_name": "Psalms 61",
+    "verses_size": 8
+  },
+  {
+    "book": "Psalms",
+    "chapter": 62,
+    "chapter_name": "Psalms 62",
+    "verses_size": 12
+  },
+  {
+    "book": "Psalms",
+    "chapter": 63,
+    "chapter_name": "Psalms 63",
+    "verses_size": 11
+  },
+  {
+    "book": "Psalms",
+    "chapter": 64,
+    "chapter_name": "Psalms 64",
+    "verses_size": 10
+  },
+  {
+    "book": "Psalms",
+    "chapter": 65,
+    "chapter_name": "Psalms 65",
+    "verses_size": 13
+  },
+  {
+    "book": "Psalms",
+    "chapter": 66,
+    "chapter_name": "Psalms 66",
+    "verses_size": 20
+  },
+  {
+    "book": "Psalms",
+    "chapter": 67,
+    "chapter_name": "Psalms 67",
+    "verses_size": 7
+  },
+  {
+    "book": "Psalms",
+    "chapter": 68,
+    "chapter_name": "Psalms 68",
+    "verses_size": 35
+  },
+  {
+    "book": "Psalms",
+    "chapter": 69,
+    "chapter_name": "Psalms 69",
+    "verses_size": 36
+  },
+  {
+    "book": "Psalms",
+    "chapter": 70,
+    "chapter_name": "Psalms 70",
+    "verses_size": 5
+  },
+  {
+    "book": "Psalms",
+    "chapter": 71,
+    "chapter_name": "Psalms 71",
+    "verses_size": 24
+  },
+  {
+    "book": "Psalms",
+    "chapter": 72,
+    "chapter_name": "Psalms 72",
+    "verses_size": 20
+  },
+  {
+    "book": "Psalms",
+    "chapter": 73,
+    "chapter_name": "Psalms 73",
+    "verses_size": 28
+  },
+  {
+    "book": "Psalms",
+    "chapter": 74,
+    "chapter_name": "Psalms 74",
+    "verses_size": 23
+  },
+  {
+    "book": "Psalms",
+    "chapter": 75,
+    "chapter_name": "Psalms 75",
+    "verses_size": 10
+  },
+  {
+    "book": "Psalms",
+    "chapter": 76,
+    "chapter_name": "Psalms 76",
+    "verses_size": 12
+  },
+  {
+    "book": "Psalms",
+    "chapter": 77,
+    "chapter_name": "Psalms 77",
+    "verses_size": 20
+  },
+  {
+    "book": "Psalms",
+    "chapter": 78,
+    "chapter_name": "Psalms 78",
+    "verses_size": 72
+  },
+  {
+    "book": "Psalms",
+    "chapter": 79,
+    "chapter_name": "Psalms 79",
+    "verses_size": 13
+  },
+  {
+    "book": "Psalms",
+    "chapter": 80,
+    "chapter_name": "Psalms 80",
+    "verses_size": 19
+  },
+  {
+    "book": "Psalms",
+    "chapter": 81,
+    "chapter_name": "Psalms 81",
+    "verses_size": 16
+  },
+  {
+    "book": "Psalms",
+    "chapter": 82,
+    "chapter_name": "Psalms 82",
+    "verses_size": 8
+  },
+  {
+    "book": "Psalms",
+    "chapter": 83,
+    "chapter_name": "Psalms 83",
+    "verses_size": 18
+  },
+  {
+    "book": "Psalms",
+    "chapter": 84,
+    "chapter_name": "Psalms 84",
+    "verses_size": 12
+  },
+  {
+    "book": "Psalms",
+    "chapter": 85,
+    "chapter_name": "Psalms 85",
+    "verses_size": 13
+  },
+  {
+    "book": "Psalms",
+    "chapter": 86,
+    "chapter_name": "Psalms 86",
+    "verses_size": 17
+  },
+  {
+    "book": "Psalms",
+    "chapter": 87,
+    "chapter_name": "Psalms 87",
+    "verses_size": 7
+  },
+  {
+    "book": "Psalms",
+    "chapter": 88,
+    "chapter_name": "Psalms 88",
+    "verses_size": 18
+  },
+  {
+    "book": "Psalms",
+    "chapter": 89,
+    "chapter_name": "Psalms 89",
+    "verses_size": 52
+  },
+  {
+    "book": "Psalms",
+    "chapter": 90,
+    "chapter_name": "Psalms 90",
+    "verses_size": 17
+  },
+  {
+    "book": "Psalms",
+    "chapter": 91,
+    "chapter_name": "Psalms 91",
+    "verses_size": 16
+  },
+  {
+    "book": "Psalms",
+    "chapter": 92,
+    "chapter_name": "Psalms 92",
+    "verses_size": 15
+  },
+  {
+    "book": "Psalms",
+    "chapter": 93,
+    "chapter_name": "Psalms 93",
+    "verses_size": 5
+  },
+  {
+    "book": "Psalms",
+    "chapter": 94,
+    "chapter_name": "Psalms 94",
+    "verses_size": 23
+  },
+  {
+    "book": "Psalms",
+    "chapter": 95,
+    "chapter_name": "Psalms 95",
+    "verses_size": 11
+  },
+  {
+    "book": "Psalms",
+    "chapter": 96,
+    "chapter_name": "Psalms 96",
+    "verses_size": 13
+  },
+  {
+    "book": "Psalms",
+    "chapter": 97,
+    "chapter_name": "Psalms 97",
+    "verses_size": 12
+  },
+  {
+    "book": "Psalms",
+    "chapter": 98,
+    "chapter_name": "Psalms 98",
+    "verses_size": 9
+  },
+  {
+    "book": "Psalms",
+    "chapter": 99,
+    "chapter_name": "Psalms 99",
+    "verses_size": 9
+  },
+  {
+    "book": "Psalms",
+    "chapter": 100,
+    "chapter_name": "Psalms 100",
+    "verses_size": 5
+  },
+  {
+    "book": "Psalms",
+    "chapter": 101,
+    "chapter_name": "Psalms 101",
+    "verses_size": 8
+  },
+  {
+    "book": "Psalms",
+    "chapter": 102,
+    "chapter_name": "Psalms 102",
+    "verses_size": 28
+  },
+  {
+    "book": "Psalms",
+    "chapter": 103,
+    "chapter_name": "Psalms 103",
+    "verses_size": 22
+  },
+  {
+    "book": "Psalms",
+    "chapter": 104,
+    "chapter_name": "Psalms 104",
+    "verses_size": 35
+  },
+  {
+    "book": "Psalms",
+    "chapter": 105,
+    "chapter_name": "Psalms 105",
+    "verses_size": 45
+  },
+  {
+    "book": "Psalms",
+    "chapter": 106,
+    "chapter_name": "Psalms 106",
+    "verses_size": 48
+  },
+  {
+    "book": "Psalms",
+    "chapter": 107,
+    "chapter_name": "Psalms 107",
+    "verses_size": 43
+  },
+  {
+    "book": "Psalms",
+    "chapter": 108,
+    "chapter_name": "Psalms 108",
+    "verses_size": 13
+  },
+  {
+    "book": "Psalms",
+    "chapter": 109,
+    "chapter_name": "Psalms 109",
+    "verses_size": 31
+  },
+  {
+    "book": "Psalms",
+    "chapter": 110,
+    "chapter_name": "Psalms 110",
+    "verses_size": 7
+  },
+  {
+    "book": "Psalms",
+    "chapter": 111,
+    "chapter_name": "Psalms 111",
+    "verses_size": 10
+  },
+  {
+    "book": "Psalms",
+    "chapter": 112,
+    "chapter_name": "Psalms 112",
+    "verses_size": 10
+  },
+  {
+    "book": "Psalms",
+    "chapter": 113,
+    "chapter_name": "Psalms 113",
+    "verses_size": 9
+  },
+  {
+    "book": "Psalms",
+    "chapter": 114,
+    "chapter_name": "Psalms 114",
+    "verses_size": 8
+  },
+  {
+    "book": "Psalms",
+    "chapter": 115,
+    "chapter_name": "Psalms 115",
+    "verses_size": 18
+  },
+  {
+    "book": "Psalms",
+    "chapter": 116,
+    "chapter_name": "Psalms 116",
+    "verses_size": 19
+  },
+  {
+    "book": "Psalms",
+    "chapter": 117,
+    "chapter_name": "Psalms 117",
+    "verses_size": 2
+  },
+  {
+    "book": "Psalms",
+    "chapter": 118,
+    "chapter_name": "Psalms 118",
+    "verses_size": 29
+  },
+  {
+    "book": "Psalms",
+    "chapter": 119,
+    "chapter_name": "Psalms 119",
+    "verses_size": 176
+  },
+  {
+    "book": "Psalms",
+    "chapter": 120,
+    "chapter_name": "Psalms 120",
+    "verses_size": 7
+  },
+  {
+    "book": "Psalms",
+    "chapter": 121,
+    "chapter_name": "Psalms 121",
+    "verses_size": 8
+  },
+  {
+    "book": "Psalms",
+    "chapter": 122,
+    "chapter_name": "Psalms 122",
+    "verses_size": 9
+  },
+  {
+    "book": "Psalms",
+    "chapter": 123,
+    "chapter_name": "Psalms 123",
+    "verses_size": 4
+  },
+  {
+    "book": "Psalms",
+    "chapter": 124,
+    "chapter_name": "Psalms 124",
+    "verses_size": 8
+  },
+  {
+    "book": "Psalms",
+    "chapter": 125,
+    "chapter_name": "Psalms 125",
+    "verses_size": 5
+  },
+  {
+    "book": "Psalms",
+    "chapter": 126,
+    "chapter_name": "Psalms 126",
+    "verses_size": 6
+  },
+  {
+    "book": "Psalms",
+    "chapter": 127,
+    "chapter_name": "Psalms 127",
+    "verses_size": 5
+  },
+  {
+    "book": "Psalms",
+    "chapter": 128,
+    "chapter_name": "Psalms 128",
+    "verses_size": 6
+  },
+  {
+    "book": "Psalms",
+    "chapter": 129,
+    "chapter_name": "Psalms 129",
+    "verses_size": 8
+  },
+  {
+    "book": "Psalms",
+    "chapter": 130,
+    "chapter_name": "Psalms 130",
+    "verses_size": 8
+  },
+  {
+    "book": "Psalms",
+    "chapter": 131,
+    "chapter_name": "Psalms 131",
+    "verses_size": 3
+  },
+  {
+    "book": "Psalms",
+    "chapter": 132,
+    "chapter_name": "Psalms 132",
+    "verses_size": 18
+  },
+  {
+    "book": "Psalms",
+    "chapter": 133,
+    "chapter_name": "Psalms 133",
+    "verses_size": 3
+  },
+  {
+    "book": "Psalms",
+    "chapter": 134,
+    "chapter_name": "Psalms 134",
+    "verses_size": 3
+  },
+  {
+    "book": "Psalms",
+    "chapter": 135,
+    "chapter_name": "Psalms 135",
+    "verses_size": 21
+  },
+  {
+    "book": "Psalms",
+    "chapter": 136,
+    "chapter_name": "Psalms 136",
+    "verses_size": 26
+  },
+  {
+    "book": "Psalms",
+    "chapter": 137,
+    "chapter_name": "Psalms 137",
+    "verses_size": 9
+  },
+  {
+    "book": "Psalms",
+    "chapter": 138,
+    "chapter_name": "Psalms 138",
+    "verses_size": 8
+  },
+  {
+    "book": "Psalms",
+    "chapter": 139,
+    "chapter_name": "Psalms 139",
+    "verses_size": 24
+  },
+  {
+    "book": "Psalms",
+    "chapter": 140,
+    "chapter_name": "Psalms 140",
+    "verses_size": 13
+  },
+  {
+    "book": "Psalms",
+    "chapter": 141,
+    "chapter_name": "Psalms 141",
+    "verses_size": 10
+  },
+  {
+    "book": "Psalms",
+    "chapter": 142,
+    "chapter_name": "Psalms 142",
+    "verses_size": 7
+  },
+  {
+    "book": "Psalms",
+    "chapter": 143,
+    "chapter_name": "Psalms 143",
+    "verses_size": 12
+  },
+  {
+    "book": "Psalms",
+    "chapter": 144,
+    "chapter_name": "Psalms 144",
+    "verses_size": 15
+  },
+  {
+    "book": "Psalms",
+    "chapter": 145,
+    "chapter_name": "Psalms 145",
+    "verses_size": 21
+  },
+  {
+    "book": "Psalms",
+    "chapter": 146,
+    "chapter_name": "Psalms 146",
+    "verses_size": 10
+  },
+  {
+    "book": "Psalms",
+    "chapter": 147,
+    "chapter_name": "Psalms 147",
+    "verses_size": 20
+  },
+  {
+    "book": "Psalms",
+    "chapter": 148,
+    "chapter_name": "Psalms 148",
+    "verses_size": 14
+  },
+  {
+    "book": "Psalms",
+    "chapter": 149,
+    "chapter_name": "Psalms 149",
+    "verses_size": 9
+  },
+  {
+    "book": "Psalms",
+    "chapter": 150,
+    "chapter_name": "Psalms 150",
+    "verses_size": 6
+  },
+  {
+    "book": "Proverbs",
+    "chapter": 1,
+    "chapter_name": "Proverbs 1",
+    "verses_size": 33
+  },
+  {
+    "book": "Proverbs",
+    "chapter": 2,
+    "chapter_name": "Proverbs 2",
+    "verses_size": 22
+  },
+  {
+    "book": "Proverbs",
+    "chapter": 3,
+    "chapter_name": "Proverbs 3",
+    "verses_size": 35
+  },
+  {
+    "book": "Proverbs",
+    "chapter": 4,
+    "chapter_name": "Proverbs 4",
+    "verses_size": 27
+  },
+  {
+    "book": "Proverbs",
+    "chapter": 5,
+    "chapter_name": "Proverbs 5",
+    "verses_size": 23
+  },
+  {
+    "book": "Proverbs",
+    "chapter": 6,
+    "chapter_name": "Proverbs 6",
+    "verses_size": 35
+  },
+  {
+    "book": "Proverbs",
+    "chapter": 7,
+    "chapter_name": "Proverbs 7",
+    "verses_size": 27
+  },
+  {
+    "book": "Proverbs",
+    "chapter": 8,
+    "chapter_name": "Proverbs 8",
+    "verses_size": 36
+  },
+  {
+    "book": "Proverbs",
+    "chapter": 9,
+    "chapter_name": "Proverbs 9",
+    "verses_size": 18
+  },
+  {
+    "book": "Proverbs",
+    "chapter": 10,
+    "chapter_name": "Proverbs 10",
+    "verses_size": 32
+  },
+  {
+    "book": "Proverbs",
+    "chapter": 11,
+    "chapter_name": "Proverbs 11",
+    "verses_size": 31
+  },
+  {
+    "book": "Proverbs",
+    "chapter": 12,
+    "chapter_name": "Proverbs 12",
+    "verses_size": 28
+  },
+  {
+    "book": "Proverbs",
+    "chapter": 13,
+    "chapter_name": "Proverbs 13",
+    "verses_size": 25
+  },
+  {
+    "book": "Proverbs",
+    "chapter": 14,
+    "chapter_name": "Proverbs 14",
+    "verses_size": 35
+  },
+  {
+    "book": "Proverbs",
+    "chapter": 15,
+    "chapter_name": "Proverbs 15",
+    "verses_size": 33
+  },
+  {
+    "book": "Proverbs",
+    "chapter": 16,
+    "chapter_name": "Proverbs 16",
+    "verses_size": 33
+  },
+  {
+    "book": "Proverbs",
+    "chapter": 17,
+    "chapter_name": "Proverbs 17",
+    "verses_size": 28
+  },
+  {
+    "book": "Proverbs",
+    "chapter": 18,
+    "chapter_name": "Proverbs 18",
+    "verses_size": 24
+  },
+  {
+    "book": "Proverbs",
+    "chapter": 19,
+    "chapter_name": "Proverbs 19",
+    "verses_size": 29
+  },
+  {
+    "book": "Proverbs",
+    "chapter": 20,
+    "chapter_name": "Proverbs 20",
+    "verses_size": 30
+  },
+  {
+    "book": "Proverbs",
+    "chapter": 21,
+    "chapter_name": "Proverbs 21",
+    "verses_size": 31
+  },
+  {
+    "book": "Proverbs",
+    "chapter": 22,
+    "chapter_name": "Proverbs 22",
+    "verses_size": 29
+  },
+  {
+    "book": "Proverbs",
+    "chapter": 23,
+    "chapter_name": "Proverbs 23",
+    "verses_size": 35
+  },
+  {
+    "book": "Proverbs",
+    "chapter": 24,
+    "chapter_name": "Proverbs 24",
+    "verses_size": 34
+  },
+  {
+    "book": "Proverbs",
+    "chapter": 25,
+    "chapter_name": "Proverbs 25",
+    "verses_size": 28
+  },
+  {
+    "book": "Proverbs",
+    "chapter": 26,
+    "chapter_name": "Proverbs 26",
+    "verses_size": 28
+  },
+  {
+    "book": "Proverbs",
+    "chapter": 27,
+    "chapter_name": "Proverbs 27",
+    "verses_size": 27
+  },
+  {
+    "book": "Proverbs",
+    "chapter": 28,
+    "chapter_name": "Proverbs 28",
+    "verses_size": 28
+  },
+  {
+    "book": "Proverbs",
+    "chapter": 29,
+    "chapter_name": "Proverbs 29",
+    "verses_size": 27
+  },
+  {
+    "book": "Proverbs",
+    "chapter": 30,
+    "chapter_name": "Proverbs 30",
+    "verses_size": 33
+  },
+  {
+    "book": "Proverbs",
+    "chapter": 31,
+    "chapter_name": "Proverbs 31",
+    "verses_size": 31
+  },
+  {
+    "book": "Ecclesiastes",
+    "chapter": 1,
+    "chapter_name": "Ecclesiastes 1",
+    "verses_size": 18
+  },
+  {
+    "book": "Ecclesiastes",
+    "chapter": 2,
+    "chapter_name": "Ecclesiastes 2",
+    "verses_size": 26
+  },
+  {
+    "book": "Ecclesiastes",
+    "chapter": 3,
+    "chapter_name": "Ecclesiastes 3",
+    "verses_size": 22
+  },
+  {
+    "book": "Ecclesiastes",
+    "chapter": 4,
+    "chapter_name": "Ecclesiastes 4",
+    "verses_size": 16
+  },
+  {
+    "book": "Ecclesiastes",
+    "chapter": 5,
+    "chapter_name": "Ecclesiastes 5",
+    "verses_size": 20
+  },
+  {
+    "book": "Ecclesiastes",
+    "chapter": 6,
+    "chapter_name": "Ecclesiastes 6",
+    "verses_size": 12
+  },
+  {
+    "book": "Ecclesiastes",
+    "chapter": 7,
+    "chapter_name": "Ecclesiastes 7",
+    "verses_size": 29
+  },
+  {
+    "book": "Ecclesiastes",
+    "chapter": 8,
+    "chapter_name": "Ecclesiastes 8",
+    "verses_size": 17
+  },
+  {
+    "book": "Ecclesiastes",
+    "chapter": 9,
+    "chapter_name": "Ecclesiastes 9",
+    "verses_size": 18
+  },
+  {
+    "book": "Ecclesiastes",
+    "chapter": 10,
+    "chapter_name": "Ecclesiastes 10",
+    "verses_size": 20
+  },
+  {
+    "book": "Ecclesiastes",
+    "chapter": 11,
+    "chapter_name": "Ecclesiastes 11",
+    "verses_size": 10
+  },
+  {
+    "book": "Ecclesiastes",
+    "chapter": 12,
+    "chapter_name": "Ecclesiastes 12",
+    "verses_size": 14
+  },
+  {
+    "book": "Song of Solomon",
+    "chapter": 1,
+    "chapter_name": "Song of Solomon 1",
+    "verses_size": 17
+  },
+  {
+    "book": "Song of Solomon",
+    "chapter": 2,
+    "chapter_name": "Song of Solomon 2",
+    "verses_size": 17
+  },
+  {
+    "book": "Song of Solomon",
+    "chapter": 3,
+    "chapter_name": "Song of Solomon 3",
+    "verses_size": 11
+  },
+  {
+    "book": "Song of Solomon",
+    "chapter": 4,
+    "chapter_name": "Song of Solomon 4",
+    "verses_size": 16
+  },
+  {
+    "book": "Song of Solomon",
+    "chapter": 5,
+    "chapter_name": "Song of Solomon 5",
+    "verses_size": 16
+  },
+  {
+    "book": "Song of Solomon",
+    "chapter": 6,
+    "chapter_name": "Song of Solomon 6",
+    "verses_size": 13
+  },
+  {
+    "book": "Song of Solomon",
+    "chapter": 7,
+    "chapter_name": "Song of Solomon 7",
+    "verses_size": 13
+  },
+  {
+    "book": "Song of Solomon",
+    "chapter": 8,
+    "chapter_name": "Song of Solomon 8",
+    "verses_size": 14
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 1,
+    "chapter_name": "Isaiah 1",
+    "verses_size": 31
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 2,
+    "chapter_name": "Isaiah 2",
+    "verses_size": 22
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 3,
+    "chapter_name": "Isaiah 3",
+    "verses_size": 26
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 4,
+    "chapter_name": "Isaiah 4",
+    "verses_size": 6
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 5,
+    "chapter_name": "Isaiah 5",
+    "verses_size": 30
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 6,
+    "chapter_name": "Isaiah 6",
+    "verses_size": 13
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 7,
+    "chapter_name": "Isaiah 7",
+    "verses_size": 25
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 8,
+    "chapter_name": "Isaiah 8",
+    "verses_size": 22
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 9,
+    "chapter_name": "Isaiah 9",
+    "verses_size": 21
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 10,
+    "chapter_name": "Isaiah 10",
+    "verses_size": 34
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 11,
+    "chapter_name": "Isaiah 11",
+    "verses_size": 16
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 12,
+    "chapter_name": "Isaiah 12",
+    "verses_size": 6
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 13,
+    "chapter_name": "Isaiah 13",
+    "verses_size": 22
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 14,
+    "chapter_name": "Isaiah 14",
+    "verses_size": 32
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 15,
+    "chapter_name": "Isaiah 15",
+    "verses_size": 9
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 16,
+    "chapter_name": "Isaiah 16",
+    "verses_size": 14
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 17,
+    "chapter_name": "Isaiah 17",
+    "verses_size": 14
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 18,
+    "chapter_name": "Isaiah 18",
+    "verses_size": 7
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 19,
+    "chapter_name": "Isaiah 19",
+    "verses_size": 25
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 20,
+    "chapter_name": "Isaiah 20",
+    "verses_size": 6
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 21,
+    "chapter_name": "Isaiah 21",
+    "verses_size": 17
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 22,
+    "chapter_name": "Isaiah 22",
+    "verses_size": 25
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 23,
+    "chapter_name": "Isaiah 23",
+    "verses_size": 18
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 24,
+    "chapter_name": "Isaiah 24",
+    "verses_size": 23
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 25,
+    "chapter_name": "Isaiah 25",
+    "verses_size": 12
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 26,
+    "chapter_name": "Isaiah 26",
+    "verses_size": 21
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 27,
+    "chapter_name": "Isaiah 27",
+    "verses_size": 13
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 28,
+    "chapter_name": "Isaiah 28",
+    "verses_size": 29
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 29,
+    "chapter_name": "Isaiah 29",
+    "verses_size": 24
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 30,
+    "chapter_name": "Isaiah 30",
+    "verses_size": 33
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 31,
+    "chapter_name": "Isaiah 31",
+    "verses_size": 9
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 32,
+    "chapter_name": "Isaiah 32",
+    "verses_size": 20
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 33,
+    "chapter_name": "Isaiah 33",
+    "verses_size": 24
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 34,
+    "chapter_name": "Isaiah 34",
+    "verses_size": 17
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 35,
+    "chapter_name": "Isaiah 35",
+    "verses_size": 10
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 36,
+    "chapter_name": "Isaiah 36",
+    "verses_size": 22
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 37,
+    "chapter_name": "Isaiah 37",
+    "verses_size": 38
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 38,
+    "chapter_name": "Isaiah 38",
+    "verses_size": 22
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 39,
+    "chapter_name": "Isaiah 39",
+    "verses_size": 8
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 40,
+    "chapter_name": "Isaiah 40",
+    "verses_size": 31
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 41,
+    "chapter_name": "Isaiah 41",
+    "verses_size": 29
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 42,
+    "chapter_name": "Isaiah 42",
+    "verses_size": 25
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 43,
+    "chapter_name": "Isaiah 43",
+    "verses_size": 28
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 44,
+    "chapter_name": "Isaiah 44",
+    "verses_size": 28
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 45,
+    "chapter_name": "Isaiah 45",
+    "verses_size": 25
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 46,
+    "chapter_name": "Isaiah 46",
+    "verses_size": 13
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 47,
+    "chapter_name": "Isaiah 47",
+    "verses_size": 15
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 48,
+    "chapter_name": "Isaiah 48",
+    "verses_size": 22
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 49,
+    "chapter_name": "Isaiah 49",
+    "verses_size": 26
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 50,
+    "chapter_name": "Isaiah 50",
+    "verses_size": 11
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 51,
+    "chapter_name": "Isaiah 51",
+    "verses_size": 23
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 52,
+    "chapter_name": "Isaiah 52",
+    "verses_size": 15
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 53,
+    "chapter_name": "Isaiah 53",
+    "verses_size": 12
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 54,
+    "chapter_name": "Isaiah 54",
+    "verses_size": 17
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 55,
+    "chapter_name": "Isaiah 55",
+    "verses_size": 13
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 56,
+    "chapter_name": "Isaiah 56",
+    "verses_size": 12
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 57,
+    "chapter_name": "Isaiah 57",
+    "verses_size": 21
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 58,
+    "chapter_name": "Isaiah 58",
+    "verses_size": 14
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 59,
+    "chapter_name": "Isaiah 59",
+    "verses_size": 21
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 60,
+    "chapter_name": "Isaiah 60",
+    "verses_size": 22
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 61,
+    "chapter_name": "Isaiah 61",
+    "verses_size": 11
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 62,
+    "chapter_name": "Isaiah 62",
+    "verses_size": 12
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 63,
+    "chapter_name": "Isaiah 63",
+    "verses_size": 19
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 64,
+    "chapter_name": "Isaiah 64",
+    "verses_size": 12
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 65,
+    "chapter_name": "Isaiah 65",
+    "verses_size": 25
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 66,
+    "chapter_name": "Isaiah 66",
+    "verses_size": 24
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 1,
+    "chapter_name": "Jeremiah 1",
+    "verses_size": 19
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 2,
+    "chapter_name": "Jeremiah 2",
+    "verses_size": 37
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 3,
+    "chapter_name": "Jeremiah 3",
+    "verses_size": 25
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 4,
+    "chapter_name": "Jeremiah 4",
+    "verses_size": 31
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 5,
+    "chapter_name": "Jeremiah 5",
+    "verses_size": 31
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 6,
+    "chapter_name": "Jeremiah 6",
+    "verses_size": 30
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 7,
+    "chapter_name": "Jeremiah 7",
+    "verses_size": 34
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 8,
+    "chapter_name": "Jeremiah 8",
+    "verses_size": 22
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 9,
+    "chapter_name": "Jeremiah 9",
+    "verses_size": 26
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 10,
+    "chapter_name": "Jeremiah 10",
+    "verses_size": 25
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 11,
+    "chapter_name": "Jeremiah 11",
+    "verses_size": 23
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 12,
+    "chapter_name": "Jeremiah 12",
+    "verses_size": 17
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 13,
+    "chapter_name": "Jeremiah 13",
+    "verses_size": 27
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 14,
+    "chapter_name": "Jeremiah 14",
+    "verses_size": 22
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 15,
+    "chapter_name": "Jeremiah 15",
+    "verses_size": 21
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 16,
+    "chapter_name": "Jeremiah 16",
+    "verses_size": 21
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 17,
+    "chapter_name": "Jeremiah 17",
+    "verses_size": 27
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 18,
+    "chapter_name": "Jeremiah 18",
+    "verses_size": 23
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 19,
+    "chapter_name": "Jeremiah 19",
+    "verses_size": 15
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 20,
+    "chapter_name": "Jeremiah 20",
+    "verses_size": 18
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 21,
+    "chapter_name": "Jeremiah 21",
+    "verses_size": 14
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 22,
+    "chapter_name": "Jeremiah 22",
+    "verses_size": 30
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 23,
+    "chapter_name": "Jeremiah 23",
+    "verses_size": 40
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 24,
+    "chapter_name": "Jeremiah 24",
+    "verses_size": 10
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 25,
+    "chapter_name": "Jeremiah 25",
+    "verses_size": 38
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 26,
+    "chapter_name": "Jeremiah 26",
+    "verses_size": 24
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 27,
+    "chapter_name": "Jeremiah 27",
+    "verses_size": 22
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 28,
+    "chapter_name": "Jeremiah 28",
+    "verses_size": 17
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 29,
+    "chapter_name": "Jeremiah 29",
+    "verses_size": 32
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 30,
+    "chapter_name": "Jeremiah 30",
+    "verses_size": 24
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 31,
+    "chapter_name": "Jeremiah 31",
+    "verses_size": 40
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 32,
+    "chapter_name": "Jeremiah 32",
+    "verses_size": 44
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 33,
+    "chapter_name": "Jeremiah 33",
+    "verses_size": 26
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 34,
+    "chapter_name": "Jeremiah 34",
+    "verses_size": 22
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 35,
+    "chapter_name": "Jeremiah 35",
+    "verses_size": 19
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 36,
+    "chapter_name": "Jeremiah 36",
+    "verses_size": 32
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 37,
+    "chapter_name": "Jeremiah 37",
+    "verses_size": 21
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 38,
+    "chapter_name": "Jeremiah 38",
+    "verses_size": 28
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 39,
+    "chapter_name": "Jeremiah 39",
+    "verses_size": 18
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 40,
+    "chapter_name": "Jeremiah 40",
+    "verses_size": 16
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 41,
+    "chapter_name": "Jeremiah 41",
+    "verses_size": 18
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 42,
+    "chapter_name": "Jeremiah 42",
+    "verses_size": 22
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 43,
+    "chapter_name": "Jeremiah 43",
+    "verses_size": 13
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 44,
+    "chapter_name": "Jeremiah 44",
+    "verses_size": 30
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 45,
+    "chapter_name": "Jeremiah 45",
+    "verses_size": 5
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 46,
+    "chapter_name": "Jeremiah 46",
+    "verses_size": 28
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 47,
+    "chapter_name": "Jeremiah 47",
+    "verses_size": 7
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 48,
+    "chapter_name": "Jeremiah 48",
+    "verses_size": 47
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 49,
+    "chapter_name": "Jeremiah 49",
+    "verses_size": 39
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 50,
+    "chapter_name": "Jeremiah 50",
+    "verses_size": 46
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 51,
+    "chapter_name": "Jeremiah 51",
+    "verses_size": 64
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 52,
+    "chapter_name": "Jeremiah 52",
+    "verses_size": 34
+  },
+  {
+    "book": "Lamentations",
+    "chapter": 1,
+    "chapter_name": "Lamentations 1",
+    "verses_size": 22
+  },
+  {
+    "book": "Lamentations",
+    "chapter": 2,
+    "chapter_name": "Lamentations 2",
+    "verses_size": 22
+  },
+  {
+    "book": "Lamentations",
+    "chapter": 3,
+    "chapter_name": "Lamentations 3",
+    "verses_size": 66
+  },
+  {
+    "book": "Lamentations",
+    "chapter": 4,
+    "chapter_name": "Lamentations 4",
+    "verses_size": 22
+  },
+  {
+    "book": "Lamentations",
+    "chapter": 5,
+    "chapter_name": "Lamentations 5",
+    "verses_size": 22
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 1,
+    "chapter_name": "Ezekiel 1",
+    "verses_size": 28
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 2,
+    "chapter_name": "Ezekiel 2",
+    "verses_size": 10
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 3,
+    "chapter_name": "Ezekiel 3",
+    "verses_size": 27
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 4,
+    "chapter_name": "Ezekiel 4",
+    "verses_size": 17
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 5,
+    "chapter_name": "Ezekiel 5",
+    "verses_size": 17
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 6,
+    "chapter_name": "Ezekiel 6",
+    "verses_size": 14
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 7,
+    "chapter_name": "Ezekiel 7",
+    "verses_size": 27
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 8,
+    "chapter_name": "Ezekiel 8",
+    "verses_size": 18
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 9,
+    "chapter_name": "Ezekiel 9",
+    "verses_size": 11
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 10,
+    "chapter_name": "Ezekiel 10",
+    "verses_size": 22
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 11,
+    "chapter_name": "Ezekiel 11",
+    "verses_size": 25
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 12,
+    "chapter_name": "Ezekiel 12",
+    "verses_size": 28
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 13,
+    "chapter_name": "Ezekiel 13",
+    "verses_size": 23
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 14,
+    "chapter_name": "Ezekiel 14",
+    "verses_size": 23
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 15,
+    "chapter_name": "Ezekiel 15",
+    "verses_size": 8
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 16,
+    "chapter_name": "Ezekiel 16",
+    "verses_size": 63
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 17,
+    "chapter_name": "Ezekiel 17",
+    "verses_size": 24
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 18,
+    "chapter_name": "Ezekiel 18",
+    "verses_size": 32
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 19,
+    "chapter_name": "Ezekiel 19",
+    "verses_size": 14
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 20,
+    "chapter_name": "Ezekiel 20",
+    "verses_size": 49
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 21,
+    "chapter_name": "Ezekiel 21",
+    "verses_size": 32
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 22,
+    "chapter_name": "Ezekiel 22",
+    "verses_size": 31
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 23,
+    "chapter_name": "Ezekiel 23",
+    "verses_size": 49
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 24,
+    "chapter_name": "Ezekiel 24",
+    "verses_size": 27
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 25,
+    "chapter_name": "Ezekiel 25",
+    "verses_size": 17
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 26,
+    "chapter_name": "Ezekiel 26",
+    "verses_size": 21
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 27,
+    "chapter_name": "Ezekiel 27",
+    "verses_size": 36
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 28,
+    "chapter_name": "Ezekiel 28",
+    "verses_size": 26
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 29,
+    "chapter_name": "Ezekiel 29",
+    "verses_size": 21
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 30,
+    "chapter_name": "Ezekiel 30",
+    "verses_size": 26
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 31,
+    "chapter_name": "Ezekiel 31",
+    "verses_size": 18
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 32,
+    "chapter_name": "Ezekiel 32",
+    "verses_size": 32
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 33,
+    "chapter_name": "Ezekiel 33",
+    "verses_size": 33
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 34,
+    "chapter_name": "Ezekiel 34",
+    "verses_size": 31
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 35,
+    "chapter_name": "Ezekiel 35",
+    "verses_size": 15
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 36,
+    "chapter_name": "Ezekiel 36",
+    "verses_size": 38
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 37,
+    "chapter_name": "Ezekiel 37",
+    "verses_size": 28
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 38,
+    "chapter_name": "Ezekiel 38",
+    "verses_size": 23
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 39,
+    "chapter_name": "Ezekiel 39",
+    "verses_size": 29
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 40,
+    "chapter_name": "Ezekiel 40",
+    "verses_size": 49
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 41,
+    "chapter_name": "Ezekiel 41",
+    "verses_size": 26
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 42,
+    "chapter_name": "Ezekiel 42",
+    "verses_size": 20
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 43,
+    "chapter_name": "Ezekiel 43",
+    "verses_size": 27
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 44,
+    "chapter_name": "Ezekiel 44",
+    "verses_size": 31
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 45,
+    "chapter_name": "Ezekiel 45",
+    "verses_size": 25
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 46,
+    "chapter_name": "Ezekiel 46",
+    "verses_size": 24
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 47,
+    "chapter_name": "Ezekiel 47",
+    "verses_size": 23
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 48,
+    "chapter_name": "Ezekiel 48",
+    "verses_size": 35
+  },
+  {
+    "book": "Daniel",
+    "chapter": 1,
+    "chapter_name": "Daniel 1",
+    "verses_size": 21
+  },
+  {
+    "book": "Daniel",
+    "chapter": 2,
+    "chapter_name": "Daniel 2",
+    "verses_size": 49
+  },
+  {
+    "book": "Daniel",
+    "chapter": 3,
+    "chapter_name": "Daniel 3",
+    "verses_size": 30
+  },
+  {
+    "book": "Daniel",
+    "chapter": 4,
+    "chapter_name": "Daniel 4",
+    "verses_size": 37
+  },
+  {
+    "book": "Daniel",
+    "chapter": 5,
+    "chapter_name": "Daniel 5",
+    "verses_size": 31
+  },
+  {
+    "book": "Daniel",
+    "chapter": 6,
+    "chapter_name": "Daniel 6",
+    "verses_size": 28
+  },
+  {
+    "book": "Daniel",
+    "chapter": 7,
+    "chapter_name": "Daniel 7",
+    "verses_size": 28
+  },
+  {
+    "book": "Daniel",
+    "chapter": 8,
+    "chapter_name": "Daniel 8",
+    "verses_size": 27
+  },
+  {
+    "book": "Daniel",
+    "chapter": 9,
+    "chapter_name": "Daniel 9",
+    "verses_size": 27
+  },
+  {
+    "book": "Daniel",
+    "chapter": 10,
+    "chapter_name": "Daniel 10",
+    "verses_size": 21
+  },
+  {
+    "book": "Daniel",
+    "chapter": 11,
+    "chapter_name": "Daniel 11",
+    "verses_size": 45
+  },
+  {
+    "book": "Daniel",
+    "chapter": 12,
+    "chapter_name": "Daniel 12",
+    "verses_size": 13
+  },
+  {
+    "book": "Hosea",
+    "chapter": 1,
+    "chapter_name": "Hosea 1",
+    "verses_size": 11
+  },
+  {
+    "book": "Hosea",
+    "chapter": 2,
+    "chapter_name": "Hosea 2",
+    "verses_size": 23
+  },
+  {
+    "book": "Hosea",
+    "chapter": 3,
+    "chapter_name": "Hosea 3",
+    "verses_size": 5
+  },
+  {
+    "book": "Hosea",
+    "chapter": 4,
+    "chapter_name": "Hosea 4",
+    "verses_size": 19
+  },
+  {
+    "book": "Hosea",
+    "chapter": 5,
+    "chapter_name": "Hosea 5",
+    "verses_size": 15
+  },
+  {
+    "book": "Hosea",
+    "chapter": 6,
+    "chapter_name": "Hosea 6",
+    "verses_size": 11
+  },
+  {
+    "book": "Hosea",
+    "chapter": 7,
+    "chapter_name": "Hosea 7",
+    "verses_size": 16
+  },
+  {
+    "book": "Hosea",
+    "chapter": 8,
+    "chapter_name": "Hosea 8",
+    "verses_size": 14
+  },
+  {
+    "book": "Hosea",
+    "chapter": 9,
+    "chapter_name": "Hosea 9",
+    "verses_size": 17
+  },
+  {
+    "book": "Hosea",
+    "chapter": 10,
+    "chapter_name": "Hosea 10",
+    "verses_size": 15
+  },
+  {
+    "book": "Hosea",
+    "chapter": 11,
+    "chapter_name": "Hosea 11",
+    "verses_size": 12
+  },
+  {
+    "book": "Hosea",
+    "chapter": 12,
+    "chapter_name": "Hosea 12",
+    "verses_size": 14
+  },
+  {
+    "book": "Hosea",
+    "chapter": 13,
+    "chapter_name": "Hosea 13",
+    "verses_size": 16
+  },
+  {
+    "book": "Hosea",
+    "chapter": 14,
+    "chapter_name": "Hosea 14",
+    "verses_size": 9
+  },
+  { "book": "Joel", "chapter": 1, "chapter_name": "Joel 1", "verses_size": 20 },
+  { "book": "Joel", "chapter": 2, "chapter_name": "Joel 2", "verses_size": 32 },
+  { "book": "Joel", "chapter": 3, "chapter_name": "Joel 3", "verses_size": 21 },
+  { "book": "Amos", "chapter": 1, "chapter_name": "Amos 1", "verses_size": 15 },
+  { "book": "Amos", "chapter": 2, "chapter_name": "Amos 2", "verses_size": 16 },
+  { "book": "Amos", "chapter": 3, "chapter_name": "Amos 3", "verses_size": 15 },
+  { "book": "Amos", "chapter": 4, "chapter_name": "Amos 4", "verses_size": 13 },
+  { "book": "Amos", "chapter": 5, "chapter_name": "Amos 5", "verses_size": 27 },
+  { "book": "Amos", "chapter": 6, "chapter_name": "Amos 6", "verses_size": 14 },
+  { "book": "Amos", "chapter": 7, "chapter_name": "Amos 7", "verses_size": 17 },
+  { "book": "Amos", "chapter": 8, "chapter_name": "Amos 8", "verses_size": 14 },
+  { "book": "Amos", "chapter": 9, "chapter_name": "Amos 9", "verses_size": 15 },
+  {
+    "book": "Obadiah",
+    "chapter": 1,
+    "chapter_name": "Obadiah 1",
+    "verses_size": 21
+  },
+  {
+    "book": "Jonah",
+    "chapter": 1,
+    "chapter_name": "Jonah 1",
+    "verses_size": 17
+  },
+  {
+    "book": "Jonah",
+    "chapter": 2,
+    "chapter_name": "Jonah 2",
+    "verses_size": 10
+  },
+  {
+    "book": "Jonah",
+    "chapter": 3,
+    "chapter_name": "Jonah 3",
+    "verses_size": 10
+  },
+  {
+    "book": "Jonah",
+    "chapter": 4,
+    "chapter_name": "Jonah 4",
+    "verses_size": 11
+  },
+  {
+    "book": "Micah",
+    "chapter": 1,
+    "chapter_name": "Micah 1",
+    "verses_size": 16
+  },
+  {
+    "book": "Micah",
+    "chapter": 2,
+    "chapter_name": "Micah 2",
+    "verses_size": 13
+  },
+  {
+    "book": "Micah",
+    "chapter": 3,
+    "chapter_name": "Micah 3",
+    "verses_size": 12
+  },
+  {
+    "book": "Micah",
+    "chapter": 4,
+    "chapter_name": "Micah 4",
+    "verses_size": 13
+  },
+  {
+    "book": "Micah",
+    "chapter": 5,
+    "chapter_name": "Micah 5",
+    "verses_size": 15
+  },
+  {
+    "book": "Micah",
+    "chapter": 6,
+    "chapter_name": "Micah 6",
+    "verses_size": 16
+  },
+  {
+    "book": "Micah",
+    "chapter": 7,
+    "chapter_name": "Micah 7",
+    "verses_size": 20
+  },
+  {
+    "book": "Nahum",
+    "chapter": 1,
+    "chapter_name": "Nahum 1",
+    "verses_size": 15
+  },
+  {
+    "book": "Nahum",
+    "chapter": 2,
+    "chapter_name": "Nahum 2",
+    "verses_size": 13
+  },
+  {
+    "book": "Nahum",
+    "chapter": 3,
+    "chapter_name": "Nahum 3",
+    "verses_size": 19
+  },
+  {
+    "book": "Habakkuk",
+    "chapter": 1,
+    "chapter_name": "Habakkuk 1",
+    "verses_size": 17
+  },
+  {
+    "book": "Habakkuk",
+    "chapter": 2,
+    "chapter_name": "Habakkuk 2",
+    "verses_size": 20
+  },
+  {
+    "book": "Habakkuk",
+    "chapter": 3,
+    "chapter_name": "Habakkuk 3",
+    "verses_size": 19
+  },
+  {
+    "book": "Zephaniah",
+    "chapter": 1,
+    "chapter_name": "Zephaniah 1",
+    "verses_size": 18
+  },
+  {
+    "book": "Zephaniah",
+    "chapter": 2,
+    "chapter_name": "Zephaniah 2",
+    "verses_size": 15
+  },
+  {
+    "book": "Zephaniah",
+    "chapter": 3,
+    "chapter_name": "Zephaniah 3",
+    "verses_size": 20
+  },
+  {
+    "book": "Haggai",
+    "chapter": 1,
+    "chapter_name": "Haggai 1",
+    "verses_size": 15
+  },
+  {
+    "book": "Haggai",
+    "chapter": 2,
+    "chapter_name": "Haggai 2",
+    "verses_size": 23
+  },
+  {
+    "book": "Zechariah",
+    "chapter": 1,
+    "chapter_name": "Zechariah 1",
+    "verses_size": 21
+  },
+  {
+    "book": "Zechariah",
+    "chapter": 2,
+    "chapter_name": "Zechariah 2",
+    "verses_size": 13
+  },
+  {
+    "book": "Zechariah",
+    "chapter": 3,
+    "chapter_name": "Zechariah 3",
+    "verses_size": 10
+  },
+  {
+    "book": "Zechariah",
+    "chapter": 4,
+    "chapter_name": "Zechariah 4",
+    "verses_size": 14
+  },
+  {
+    "book": "Zechariah",
+    "chapter": 5,
+    "chapter_name": "Zechariah 5",
+    "verses_size": 11
+  },
+  {
+    "book": "Zechariah",
+    "chapter": 6,
+    "chapter_name": "Zechariah 6",
+    "verses_size": 15
+  },
+  {
+    "book": "Zechariah",
+    "chapter": 7,
+    "chapter_name": "Zechariah 7",
+    "verses_size": 14
+  },
+  {
+    "book": "Zechariah",
+    "chapter": 8,
+    "chapter_name": "Zechariah 8",
+    "verses_size": 23
+  },
+  {
+    "book": "Zechariah",
+    "chapter": 9,
+    "chapter_name": "Zechariah 9",
+    "verses_size": 17
+  },
+  {
+    "book": "Zechariah",
+    "chapter": 10,
+    "chapter_name": "Zechariah 10",
+    "verses_size": 12
+  },
+  {
+    "book": "Zechariah",
+    "chapter": 11,
+    "chapter_name": "Zechariah 11",
+    "verses_size": 17
+  },
+  {
+    "book": "Zechariah",
+    "chapter": 12,
+    "chapter_name": "Zechariah 12",
+    "verses_size": 14
+  },
+  {
+    "book": "Zechariah",
+    "chapter": 13,
+    "chapter_name": "Zechariah 13",
+    "verses_size": 9
+  },
+  {
+    "book": "Zechariah",
+    "chapter": 14,
+    "chapter_name": "Zechariah 14",
+    "verses_size": 21
+  },
+  {
+    "book": "Malachi",
+    "chapter": 1,
+    "chapter_name": "Malachi 1",
+    "verses_size": 14
+  },
+  {
+    "book": "Malachi",
+    "chapter": 2,
+    "chapter_name": "Malachi 2",
+    "verses_size": 17
+  },
+  {
+    "book": "Malachi",
+    "chapter": 3,
+    "chapter_name": "Malachi 3",
+    "verses_size": 18
+  },
+  {
+    "book": "Malachi",
+    "chapter": 4,
+    "chapter_name": "Malachi 4",
+    "verses_size": 6
+  },
+  {
+    "book": "Matthew",
+    "chapter": 1,
+    "chapter_name": "Matthew 1",
+    "verses_size": 25
+  },
+  {
+    "book": "Matthew",
+    "chapter": 2,
+    "chapter_name": "Matthew 2",
+    "verses_size": 23
+  },
+  {
+    "book": "Matthew",
+    "chapter": 3,
+    "chapter_name": "Matthew 3",
+    "verses_size": 17
+  },
+  {
+    "book": "Matthew",
+    "chapter": 4,
+    "chapter_name": "Matthew 4",
+    "verses_size": 25
+  },
+  {
+    "book": "Matthew",
+    "chapter": 5,
+    "chapter_name": "Matthew 5",
+    "verses_size": 48
+  },
+  {
+    "book": "Matthew",
+    "chapter": 6,
+    "chapter_name": "Matthew 6",
+    "verses_size": 34
+  },
+  {
+    "book": "Matthew",
+    "chapter": 7,
+    "chapter_name": "Matthew 7",
+    "verses_size": 29
+  },
+  {
+    "book": "Matthew",
+    "chapter": 8,
+    "chapter_name": "Matthew 8",
+    "verses_size": 34
+  },
+  {
+    "book": "Matthew",
+    "chapter": 9,
+    "chapter_name": "Matthew 9",
+    "verses_size": 38
+  },
+  {
+    "book": "Matthew",
+    "chapter": 10,
+    "chapter_name": "Matthew 10",
+    "verses_size": 42
+  },
+  {
+    "book": "Matthew",
+    "chapter": 11,
+    "chapter_name": "Matthew 11",
+    "verses_size": 30
+  },
+  {
+    "book": "Matthew",
+    "chapter": 12,
+    "chapter_name": "Matthew 12",
+    "verses_size": 50
+  },
+  {
+    "book": "Matthew",
+    "chapter": 13,
+    "chapter_name": "Matthew 13",
+    "verses_size": 58
+  },
+  {
+    "book": "Matthew",
+    "chapter": 14,
+    "chapter_name": "Matthew 14",
+    "verses_size": 36
+  },
+  {
+    "book": "Matthew",
+    "chapter": 15,
+    "chapter_name": "Matthew 15",
+    "verses_size": 39
+  },
+  {
+    "book": "Matthew",
+    "chapter": 16,
+    "chapter_name": "Matthew 16",
+    "verses_size": 28
+  },
+  {
+    "book": "Matthew",
+    "chapter": 17,
+    "chapter_name": "Matthew 17",
+    "verses_size": 27
+  },
+  {
+    "book": "Matthew",
+    "chapter": 18,
+    "chapter_name": "Matthew 18",
+    "verses_size": 35
+  },
+  {
+    "book": "Matthew",
+    "chapter": 19,
+    "chapter_name": "Matthew 19",
+    "verses_size": 30
+  },
+  {
+    "book": "Matthew",
+    "chapter": 20,
+    "chapter_name": "Matthew 20",
+    "verses_size": 34
+  },
+  {
+    "book": "Matthew",
+    "chapter": 21,
+    "chapter_name": "Matthew 21",
+    "verses_size": 46
+  },
+  {
+    "book": "Matthew",
+    "chapter": 22,
+    "chapter_name": "Matthew 22",
+    "verses_size": 46
+  },
+  {
+    "book": "Matthew",
+    "chapter": 23,
+    "chapter_name": "Matthew 23",
+    "verses_size": 39
+  },
+  {
+    "book": "Matthew",
+    "chapter": 24,
+    "chapter_name": "Matthew 24",
+    "verses_size": 51
+  },
+  {
+    "book": "Matthew",
+    "chapter": 25,
+    "chapter_name": "Matthew 25",
+    "verses_size": 46
+  },
+  {
+    "book": "Matthew",
+    "chapter": 26,
+    "chapter_name": "Matthew 26",
+    "verses_size": 75
+  },
+  {
+    "book": "Matthew",
+    "chapter": 27,
+    "chapter_name": "Matthew 27",
+    "verses_size": 66
+  },
+  {
+    "book": "Matthew",
+    "chapter": 28,
+    "chapter_name": "Matthew 28",
+    "verses_size": 20
+  },
+  { "book": "Mark", "chapter": 1, "chapter_name": "Mark 1", "verses_size": 45 },
+  { "book": "Mark", "chapter": 2, "chapter_name": "Mark 2", "verses_size": 28 },
+  { "book": "Mark", "chapter": 3, "chapter_name": "Mark 3", "verses_size": 35 },
+  { "book": "Mark", "chapter": 4, "chapter_name": "Mark 4", "verses_size": 41 },
+  { "book": "Mark", "chapter": 5, "chapter_name": "Mark 5", "verses_size": 43 },
+  { "book": "Mark", "chapter": 6, "chapter_name": "Mark 6", "verses_size": 56 },
+  { "book": "Mark", "chapter": 7, "chapter_name": "Mark 7", "verses_size": 37 },
+  { "book": "Mark", "chapter": 8, "chapter_name": "Mark 8", "verses_size": 38 },
+  { "book": "Mark", "chapter": 9, "chapter_name": "Mark 9", "verses_size": 50 },
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "chapter_name": "Mark 10",
+    "verses_size": 52
+  },
+  {
+    "book": "Mark",
+    "chapter": 11,
+    "chapter_name": "Mark 11",
+    "verses_size": 33
+  },
+  {
+    "book": "Mark",
+    "chapter": 12,
+    "chapter_name": "Mark 12",
+    "verses_size": 44
+  },
+  {
+    "book": "Mark",
+    "chapter": 13,
+    "chapter_name": "Mark 13",
+    "verses_size": 37
+  },
+  {
+    "book": "Mark",
+    "chapter": 14,
+    "chapter_name": "Mark 14",
+    "verses_size": 72
+  },
+  {
+    "book": "Mark",
+    "chapter": 15,
+    "chapter_name": "Mark 15",
+    "verses_size": 47
+  },
+  {
+    "book": "Mark",
+    "chapter": 16,
+    "chapter_name": "Mark 16",
+    "verses_size": 20
+  },
+  { "book": "Luke", "chapter": 1, "chapter_name": "Luke 1", "verses_size": 80 },
+  { "book": "Luke", "chapter": 2, "chapter_name": "Luke 2", "verses_size": 52 },
+  { "book": "Luke", "chapter": 3, "chapter_name": "Luke 3", "verses_size": 38 },
+  { "book": "Luke", "chapter": 4, "chapter_name": "Luke 4", "verses_size": 44 },
+  { "book": "Luke", "chapter": 5, "chapter_name": "Luke 5", "verses_size": 39 },
+  { "book": "Luke", "chapter": 6, "chapter_name": "Luke 6", "verses_size": 49 },
+  { "book": "Luke", "chapter": 7, "chapter_name": "Luke 7", "verses_size": 50 },
+  { "book": "Luke", "chapter": 8, "chapter_name": "Luke 8", "verses_size": 56 },
+  { "book": "Luke", "chapter": 9, "chapter_name": "Luke 9", "verses_size": 62 },
+  {
+    "book": "Luke",
+    "chapter": 10,
+    "chapter_name": "Luke 10",
+    "verses_size": 42
+  },
+  {
+    "book": "Luke",
+    "chapter": 11,
+    "chapter_name": "Luke 11",
+    "verses_size": 54
+  },
+  {
+    "book": "Luke",
+    "chapter": 12,
+    "chapter_name": "Luke 12",
+    "verses_size": 59
+  },
+  {
+    "book": "Luke",
+    "chapter": 13,
+    "chapter_name": "Luke 13",
+    "verses_size": 35
+  },
+  {
+    "book": "Luke",
+    "chapter": 14,
+    "chapter_name": "Luke 14",
+    "verses_size": 35
+  },
+  {
+    "book": "Luke",
+    "chapter": 15,
+    "chapter_name": "Luke 15",
+    "verses_size": 32
+  },
+  {
+    "book": "Luke",
+    "chapter": 16,
+    "chapter_name": "Luke 16",
+    "verses_size": 31
+  },
+  {
+    "book": "Luke",
+    "chapter": 17,
+    "chapter_name": "Luke 17",
+    "verses_size": 37
+  },
+  {
+    "book": "Luke",
+    "chapter": 18,
+    "chapter_name": "Luke 18",
+    "verses_size": 43
+  },
+  {
+    "book": "Luke",
+    "chapter": 19,
+    "chapter_name": "Luke 19",
+    "verses_size": 48
+  },
+  {
+    "book": "Luke",
+    "chapter": 20,
+    "chapter_name": "Luke 20",
+    "verses_size": 47
+  },
+  {
+    "book": "Luke",
+    "chapter": 21,
+    "chapter_name": "Luke 21",
+    "verses_size": 38
+  },
+  {
+    "book": "Luke",
+    "chapter": 22,
+    "chapter_name": "Luke 22",
+    "verses_size": 71
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "chapter_name": "Luke 23",
+    "verses_size": 56
+  },
+  {
+    "book": "Luke",
+    "chapter": 24,
+    "chapter_name": "Luke 24",
+    "verses_size": 53
+  },
+  { "book": "John", "chapter": 1, "chapter_name": "John 1", "verses_size": 51 },
+  { "book": "John", "chapter": 2, "chapter_name": "John 2", "verses_size": 25 },
+  { "book": "John", "chapter": 3, "chapter_name": "John 3", "verses_size": 36 },
+  { "book": "John", "chapter": 4, "chapter_name": "John 4", "verses_size": 54 },
+  { "book": "John", "chapter": 5, "chapter_name": "John 5", "verses_size": 47 },
+  { "book": "John", "chapter": 6, "chapter_name": "John 6", "verses_size": 71 },
+  { "book": "John", "chapter": 7, "chapter_name": "John 7", "verses_size": 53 },
+  { "book": "John", "chapter": 8, "chapter_name": "John 8", "verses_size": 59 },
+  { "book": "John", "chapter": 9, "chapter_name": "John 9", "verses_size": 41 },
+  {
+    "book": "John",
+    "chapter": 10,
+    "chapter_name": "John 10",
+    "verses_size": 42
+  },
+  {
+    "book": "John",
+    "chapter": 11,
+    "chapter_name": "John 11",
+    "verses_size": 57
+  },
+  {
+    "book": "John",
+    "chapter": 12,
+    "chapter_name": "John 12",
+    "verses_size": 50
+  },
+  {
+    "book": "John",
+    "chapter": 13,
+    "chapter_name": "John 13",
+    "verses_size": 38
+  },
+  {
+    "book": "John",
+    "chapter": 14,
+    "chapter_name": "John 14",
+    "verses_size": 31
+  },
+  {
+    "book": "John",
+    "chapter": 15,
+    "chapter_name": "John 15",
+    "verses_size": 27
+  },
+  {
+    "book": "John",
+    "chapter": 16,
+    "chapter_name": "John 16",
+    "verses_size": 33
+  },
+  {
+    "book": "John",
+    "chapter": 17,
+    "chapter_name": "John 17",
+    "verses_size": 26
+  },
+  {
+    "book": "John",
+    "chapter": 18,
+    "chapter_name": "John 18",
+    "verses_size": 40
+  },
+  {
+    "book": "John",
+    "chapter": 19,
+    "chapter_name": "John 19",
+    "verses_size": 42
+  },
+  {
+    "book": "John",
+    "chapter": 20,
+    "chapter_name": "John 20",
+    "verses_size": 31
+  },
+  {
+    "book": "John",
+    "chapter": 21,
+    "chapter_name": "John 21",
+    "verses_size": 25
+  },
+  { "book": "Acts", "chapter": 1, "chapter_name": "Acts 1", "verses_size": 26 },
+  { "book": "Acts", "chapter": 2, "chapter_name": "Acts 2", "verses_size": 47 },
+  { "book": "Acts", "chapter": 3, "chapter_name": "Acts 3", "verses_size": 26 },
+  { "book": "Acts", "chapter": 4, "chapter_name": "Acts 4", "verses_size": 37 },
+  { "book": "Acts", "chapter": 5, "chapter_name": "Acts 5", "verses_size": 42 },
+  { "book": "Acts", "chapter": 6, "chapter_name": "Acts 6", "verses_size": 15 },
+  { "book": "Acts", "chapter": 7, "chapter_name": "Acts 7", "verses_size": 60 },
+  { "book": "Acts", "chapter": 8, "chapter_name": "Acts 8", "verses_size": 40 },
+  { "book": "Acts", "chapter": 9, "chapter_name": "Acts 9", "verses_size": 43 },
+  {
+    "book": "Acts",
+    "chapter": 10,
+    "chapter_name": "Acts 10",
+    "verses_size": 48
+  },
+  {
+    "book": "Acts",
+    "chapter": 11,
+    "chapter_name": "Acts 11",
+    "verses_size": 30
+  },
+  {
+    "book": "Acts",
+    "chapter": 12,
+    "chapter_name": "Acts 12",
+    "verses_size": 25
+  },
+  {
+    "book": "Acts",
+    "chapter": 13,
+    "chapter_name": "Acts 13",
+    "verses_size": 52
+  },
+  {
+    "book": "Acts",
+    "chapter": 14,
+    "chapter_name": "Acts 14",
+    "verses_size": 28
+  },
+  {
+    "book": "Acts",
+    "chapter": 15,
+    "chapter_name": "Acts 15",
+    "verses_size": 41
+  },
+  {
+    "book": "Acts",
+    "chapter": 16,
+    "chapter_name": "Acts 16",
+    "verses_size": 40
+  },
+  {
+    "book": "Acts",
+    "chapter": 17,
+    "chapter_name": "Acts 17",
+    "verses_size": 34
+  },
+  {
+    "book": "Acts",
+    "chapter": 18,
+    "chapter_name": "Acts 18",
+    "verses_size": 28
+  },
+  {
+    "book": "Acts",
+    "chapter": 19,
+    "chapter_name": "Acts 19",
+    "verses_size": 41
+  },
+  {
+    "book": "Acts",
+    "chapter": 20,
+    "chapter_name": "Acts 20",
+    "verses_size": 38
+  },
+  {
+    "book": "Acts",
+    "chapter": 21,
+    "chapter_name": "Acts 21",
+    "verses_size": 40
+  },
+  {
+    "book": "Acts",
+    "chapter": 22,
+    "chapter_name": "Acts 22",
+    "verses_size": 30
+  },
+  {
+    "book": "Acts",
+    "chapter": 23,
+    "chapter_name": "Acts 23",
+    "verses_size": 35
+  },
+  {
+    "book": "Acts",
+    "chapter": 24,
+    "chapter_name": "Acts 24",
+    "verses_size": 27
+  },
+  {
+    "book": "Acts",
+    "chapter": 25,
+    "chapter_name": "Acts 25",
+    "verses_size": 27
+  },
+  {
+    "book": "Acts",
+    "chapter": 26,
+    "chapter_name": "Acts 26",
+    "verses_size": 32
+  },
+  {
+    "book": "Acts",
+    "chapter": 27,
+    "chapter_name": "Acts 27",
+    "verses_size": 44
+  },
+  {
+    "book": "Acts",
+    "chapter": 28,
+    "chapter_name": "Acts 28",
+    "verses_size": 31
+  },
+  {
+    "book": "Romans",
+    "chapter": 1,
+    "chapter_name": "Romans 1",
+    "verses_size": 32
+  },
+  {
+    "book": "Romans",
+    "chapter": 2,
+    "chapter_name": "Romans 2",
+    "verses_size": 29
+  },
+  {
+    "book": "Romans",
+    "chapter": 3,
+    "chapter_name": "Romans 3",
+    "verses_size": 31
+  },
+  {
+    "book": "Romans",
+    "chapter": 4,
+    "chapter_name": "Romans 4",
+    "verses_size": 25
+  },
+  {
+    "book": "Romans",
+    "chapter": 5,
+    "chapter_name": "Romans 5",
+    "verses_size": 21
+  },
+  {
+    "book": "Romans",
+    "chapter": 6,
+    "chapter_name": "Romans 6",
+    "verses_size": 23
+  },
+  {
+    "book": "Romans",
+    "chapter": 7,
+    "chapter_name": "Romans 7",
+    "verses_size": 25
+  },
+  {
+    "book": "Romans",
+    "chapter": 8,
+    "chapter_name": "Romans 8",
+    "verses_size": 39
+  },
+  {
+    "book": "Romans",
+    "chapter": 9,
+    "chapter_name": "Romans 9",
+    "verses_size": 33
+  },
+  {
+    "book": "Romans",
+    "chapter": 10,
+    "chapter_name": "Romans 10",
+    "verses_size": 21
+  },
+  {
+    "book": "Romans",
+    "chapter": 11,
+    "chapter_name": "Romans 11",
+    "verses_size": 36
+  },
+  {
+    "book": "Romans",
+    "chapter": 12,
+    "chapter_name": "Romans 12",
+    "verses_size": 21
+  },
+  {
+    "book": "Romans",
+    "chapter": 13,
+    "chapter_name": "Romans 13",
+    "verses_size": 14
+  },
+  {
+    "book": "Romans",
+    "chapter": 14,
+    "chapter_name": "Romans 14",
+    "verses_size": 23
+  },
+  {
+    "book": "Romans",
+    "chapter": 15,
+    "chapter_name": "Romans 15",
+    "verses_size": 33
+  },
+  {
+    "book": "Romans",
+    "chapter": 16,
+    "chapter_name": "Romans 16",
+    "verses_size": 27
+  },
+  {
+    "book": "1 Corinthians",
+    "chapter": 1,
+    "chapter_name": "1 Corinthians 1",
+    "verses_size": 31
+  },
+  {
+    "book": "1 Corinthians",
+    "chapter": 2,
+    "chapter_name": "1 Corinthians 2",
+    "verses_size": 16
+  },
+  {
+    "book": "1 Corinthians",
+    "chapter": 3,
+    "chapter_name": "1 Corinthians 3",
+    "verses_size": 23
+  },
+  {
+    "book": "1 Corinthians",
+    "chapter": 4,
+    "chapter_name": "1 Corinthians 4",
+    "verses_size": 21
+  },
+  {
+    "book": "1 Corinthians",
+    "chapter": 5,
+    "chapter_name": "1 Corinthians 5",
+    "verses_size": 13
+  },
+  {
+    "book": "1 Corinthians",
+    "chapter": 6,
+    "chapter_name": "1 Corinthians 6",
+    "verses_size": 20
+  },
+  {
+    "book": "1 Corinthians",
+    "chapter": 7,
+    "chapter_name": "1 Corinthians 7",
+    "verses_size": 40
+  },
+  {
+    "book": "1 Corinthians",
+    "chapter": 8,
+    "chapter_name": "1 Corinthians 8",
+    "verses_size": 13
+  },
+  {
+    "book": "1 Corinthians",
+    "chapter": 9,
+    "chapter_name": "1 Corinthians 9",
+    "verses_size": 27
+  },
+  {
+    "book": "1 Corinthians",
+    "chapter": 10,
+    "chapter_name": "1 Corinthians 10",
+    "verses_size": 33
+  },
+  {
+    "book": "1 Corinthians",
+    "chapter": 11,
+    "chapter_name": "1 Corinthians 11",
+    "verses_size": 34
+  },
+  {
+    "book": "1 Corinthians",
+    "chapter": 12,
+    "chapter_name": "1 Corinthians 12",
+    "verses_size": 31
+  },
+  {
+    "book": "1 Corinthians",
+    "chapter": 13,
+    "chapter_name": "1 Corinthians 13",
+    "verses_size": 13
+  },
+  {
+    "book": "1 Corinthians",
+    "chapter": 14,
+    "chapter_name": "1 Corinthians 14",
+    "verses_size": 40
+  },
+  {
+    "book": "1 Corinthians",
+    "chapter": 15,
+    "chapter_name": "1 Corinthians 15",
+    "verses_size": 58
+  },
+  {
+    "book": "1 Corinthians",
+    "chapter": 16,
+    "chapter_name": "1 Corinthians 16",
+    "verses_size": 24
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 1,
+    "chapter_name": "2 Corinthians 1",
+    "verses_size": 24
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 2,
+    "chapter_name": "2 Corinthians 2",
+    "verses_size": 17
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 3,
+    "chapter_name": "2 Corinthians 3",
+    "verses_size": 18
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 4,
+    "chapter_name": "2 Corinthians 4",
+    "verses_size": 18
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 5,
+    "chapter_name": "2 Corinthians 5",
+    "verses_size": 21
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 6,
+    "chapter_name": "2 Corinthians 6",
+    "verses_size": 18
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 7,
+    "chapter_name": "2 Corinthians 7",
+    "verses_size": 16
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 8,
+    "chapter_name": "2 Corinthians 8",
+    "verses_size": 24
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 9,
+    "chapter_name": "2 Corinthians 9",
+    "verses_size": 15
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 10,
+    "chapter_name": "2 Corinthians 10",
+    "verses_size": 18
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 11,
+    "chapter_name": "2 Corinthians 11",
+    "verses_size": 33
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 12,
+    "chapter_name": "2 Corinthians 12",
+    "verses_size": 21
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 13,
+    "chapter_name": "2 Corinthians 13",
+    "verses_size": 14
+  },
+  {
+    "book": "Galatians",
+    "chapter": 1,
+    "chapter_name": "Galatians 1",
+    "verses_size": 24
+  },
+  {
+    "book": "Galatians",
+    "chapter": 2,
+    "chapter_name": "Galatians 2",
+    "verses_size": 21
+  },
+  {
+    "book": "Galatians",
+    "chapter": 3,
+    "chapter_name": "Galatians 3",
+    "verses_size": 29
+  },
+  {
+    "book": "Galatians",
+    "chapter": 4,
+    "chapter_name": "Galatians 4",
+    "verses_size": 31
+  },
+  {
+    "book": "Galatians",
+    "chapter": 5,
+    "chapter_name": "Galatians 5",
+    "verses_size": 26
+  },
+  {
+    "book": "Galatians",
+    "chapter": 6,
+    "chapter_name": "Galatians 6",
+    "verses_size": 18
+  },
+  {
+    "book": "Ephesians",
+    "chapter": 1,
+    "chapter_name": "Ephesians 1",
+    "verses_size": 23
+  },
+  {
+    "book": "Ephesians",
+    "chapter": 2,
+    "chapter_name": "Ephesians 2",
+    "verses_size": 22
+  },
+  {
+    "book": "Ephesians",
+    "chapter": 3,
+    "chapter_name": "Ephesians 3",
+    "verses_size": 21
+  },
+  {
+    "book": "Ephesians",
+    "chapter": 4,
+    "chapter_name": "Ephesians 4",
+    "verses_size": 32
+  },
+  {
+    "book": "Ephesians",
+    "chapter": 5,
+    "chapter_name": "Ephesians 5",
+    "verses_size": 33
+  },
+  {
+    "book": "Ephesians",
+    "chapter": 6,
+    "chapter_name": "Ephesians 6",
+    "verses_size": 24
+  },
+  {
+    "book": "Philippians",
+    "chapter": 1,
+    "chapter_name": "Philippians 1",
+    "verses_size": 30
+  },
+  {
+    "book": "Philippians",
+    "chapter": 2,
+    "chapter_name": "Philippians 2",
+    "verses_size": 30
+  },
+  {
+    "book": "Philippians",
+    "chapter": 3,
+    "chapter_name": "Philippians 3",
+    "verses_size": 21
+  },
+  {
+    "book": "Philippians",
+    "chapter": 4,
+    "chapter_name": "Philippians 4",
+    "verses_size": 23
+  },
+  {
+    "book": "Colossians",
+    "chapter": 1,
+    "chapter_name": "Colossians 1",
+    "verses_size": 29
+  },
+  {
+    "book": "Colossians",
+    "chapter": 2,
+    "chapter_name": "Colossians 2",
+    "verses_size": 23
+  },
+  {
+    "book": "Colossians",
+    "chapter": 3,
+    "chapter_name": "Colossians 3",
+    "verses_size": 25
+  },
+  {
+    "book": "Colossians",
+    "chapter": 4,
+    "chapter_name": "Colossians 4",
+    "verses_size": 18
+  },
+  {
+    "book": "1 Thessalonians",
+    "chapter": 1,
+    "chapter_name": "1 Thessalonians 1",
+    "verses_size": 10
+  },
+  {
+    "book": "1 Thessalonians",
+    "chapter": 2,
+    "chapter_name": "1 Thessalonians 2",
+    "verses_size": 20
+  },
+  {
+    "book": "1 Thessalonians",
+    "chapter": 3,
+    "chapter_name": "1 Thessalonians 3",
+    "verses_size": 13
+  },
+  {
+    "book": "1 Thessalonians",
+    "chapter": 4,
+    "chapter_name": "1 Thessalonians 4",
+    "verses_size": 18
+  },
+  {
+    "book": "1 Thessalonians",
+    "chapter": 5,
+    "chapter_name": "1 Thessalonians 5",
+    "verses_size": 28
+  },
+  {
+    "book": "2 Thessalonians",
+    "chapter": 1,
+    "chapter_name": "2 Thessalonians 1",
+    "verses_size": 12
+  },
+  {
+    "book": "2 Thessalonians",
+    "chapter": 2,
+    "chapter_name": "2 Thessalonians 2",
+    "verses_size": 17
+  },
+  {
+    "book": "2 Thessalonians",
+    "chapter": 3,
+    "chapter_name": "2 Thessalonians 3",
+    "verses_size": 18
+  },
+  {
+    "book": "1 Timothy",
+    "chapter": 1,
+    "chapter_name": "1 Timothy 1",
+    "verses_size": 20
+  },
+  {
+    "book": "1 Timothy",
+    "chapter": 2,
+    "chapter_name": "1 Timothy 2",
+    "verses_size": 15
+  },
+  {
+    "book": "1 Timothy",
+    "chapter": 3,
+    "chapter_name": "1 Timothy 3",
+    "verses_size": 16
+  },
+  {
+    "book": "1 Timothy",
+    "chapter": 4,
+    "chapter_name": "1 Timothy 4",
+    "verses_size": 16
+  },
+  {
+    "book": "1 Timothy",
+    "chapter": 5,
+    "chapter_name": "1 Timothy 5",
+    "verses_size": 25
+  },
+  {
+    "book": "1 Timothy",
+    "chapter": 6,
+    "chapter_name": "1 Timothy 6",
+    "verses_size": 21
+  },
+  {
+    "book": "2 Timothy",
+    "chapter": 1,
+    "chapter_name": "2 Timothy 1",
+    "verses_size": 18
+  },
+  {
+    "book": "2 Timothy",
+    "chapter": 2,
+    "chapter_name": "2 Timothy 2",
+    "verses_size": 26
+  },
+  {
+    "book": "2 Timothy",
+    "chapter": 3,
+    "chapter_name": "2 Timothy 3",
+    "verses_size": 17
+  },
+  {
+    "book": "2 Timothy",
+    "chapter": 4,
+    "chapter_name": "2 Timothy 4",
+    "verses_size": 22
+  },
+  {
+    "book": "Titus",
+    "chapter": 1,
+    "chapter_name": "Titus 1",
+    "verses_size": 16
+  },
+  {
+    "book": "Titus",
+    "chapter": 2,
+    "chapter_name": "Titus 2",
+    "verses_size": 15
+  },
+  {
+    "book": "Titus",
+    "chapter": 3,
+    "chapter_name": "Titus 3",
+    "verses_size": 15
+  },
+  {
+    "book": "Philemon",
+    "chapter": 1,
+    "chapter_name": "Philemon 1",
+    "verses_size": 25
+  },
+  {
+    "book": "Hebrews",
+    "chapter": 1,
+    "chapter_name": "Hebrews 1",
+    "verses_size": 14
+  },
+  {
+    "book": "Hebrews",
+    "chapter": 2,
+    "chapter_name": "Hebrews 2",
+    "verses_size": 18
+  },
+  {
+    "book": "Hebrews",
+    "chapter": 3,
+    "chapter_name": "Hebrews 3",
+    "verses_size": 19
+  },
+  {
+    "book": "Hebrews",
+    "chapter": 4,
+    "chapter_name": "Hebrews 4",
+    "verses_size": 16
+  },
+  {
+    "book": "Hebrews",
+    "chapter": 5,
+    "chapter_name": "Hebrews 5",
+    "verses_size": 14
+  },
+  {
+    "book": "Hebrews",
+    "chapter": 6,
+    "chapter_name": "Hebrews 6",
+    "verses_size": 20
+  },
+  {
+    "book": "Hebrews",
+    "chapter": 7,
+    "chapter_name": "Hebrews 7",
+    "verses_size": 28
+  },
+  {
+    "book": "Hebrews",
+    "chapter": 8,
+    "chapter_name": "Hebrews 8",
+    "verses_size": 13
+  },
+  {
+    "book": "Hebrews",
+    "chapter": 9,
+    "chapter_name": "Hebrews 9",
+    "verses_size": 28
+  },
+  {
+    "book": "Hebrews",
+    "chapter": 10,
+    "chapter_name": "Hebrews 10",
+    "verses_size": 39
+  },
+  {
+    "book": "Hebrews",
+    "chapter": 11,
+    "chapter_name": "Hebrews 11",
+    "verses_size": 40
+  },
+  {
+    "book": "Hebrews",
+    "chapter": 12,
+    "chapter_name": "Hebrews 12",
+    "verses_size": 29
+  },
+  {
+    "book": "Hebrews",
+    "chapter": 13,
+    "chapter_name": "Hebrews 13",
+    "verses_size": 25
+  },
+  {
+    "book": "James",
+    "chapter": 1,
+    "chapter_name": "James 1",
+    "verses_size": 27
+  },
+  {
+    "book": "James",
+    "chapter": 2,
+    "chapter_name": "James 2",
+    "verses_size": 26
+  },
+  {
+    "book": "James",
+    "chapter": 3,
+    "chapter_name": "James 3",
+    "verses_size": 18
+  },
+  {
+    "book": "James",
+    "chapter": 4,
+    "chapter_name": "James 4",
+    "verses_size": 17
+  },
+  {
+    "book": "James",
+    "chapter": 5,
+    "chapter_name": "James 5",
+    "verses_size": 20
+  },
+  {
+    "book": "1 Peter",
+    "chapter": 1,
+    "chapter_name": "1 Peter 1",
+    "verses_size": 25
+  },
+  {
+    "book": "1 Peter",
+    "chapter": 2,
+    "chapter_name": "1 Peter 2",
+    "verses_size": 25
+  },
+  {
+    "book": "1 Peter",
+    "chapter": 3,
+    "chapter_name": "1 Peter 3",
+    "verses_size": 22
+  },
+  {
+    "book": "1 Peter",
+    "chapter": 4,
+    "chapter_name": "1 Peter 4",
+    "verses_size": 19
+  },
+  {
+    "book": "1 Peter",
+    "chapter": 5,
+    "chapter_name": "1 Peter 5",
+    "verses_size": 14
+  },
+  {
+    "book": "2 Peter",
+    "chapter": 1,
+    "chapter_name": "2 Peter 1",
+    "verses_size": 21
+  },
+  {
+    "book": "2 Peter",
+    "chapter": 2,
+    "chapter_name": "2 Peter 2",
+    "verses_size": 22
+  },
+  {
+    "book": "2 Peter",
+    "chapter": 3,
+    "chapter_name": "2 Peter 3",
+    "verses_size": 18
+  },
+  {
+    "book": "1 John",
+    "chapter": 1,
+    "chapter_name": "1 John 1",
+    "verses_size": 10
+  },
+  {
+    "book": "1 John",
+    "chapter": 2,
+    "chapter_name": "1 John 2",
+    "verses_size": 29
+  },
+  {
+    "book": "1 John",
+    "chapter": 3,
+    "chapter_name": "1 John 3",
+    "verses_size": 24
+  },
+  {
+    "book": "1 John",
+    "chapter": 4,
+    "chapter_name": "1 John 4",
+    "verses_size": 21
+  },
+  {
+    "book": "1 John",
+    "chapter": 5,
+    "chapter_name": "1 John 5",
+    "verses_size": 21
+  },
+  {
+    "book": "2 John",
+    "chapter": 1,
+    "chapter_name": "2 John 1",
+    "verses_size": 13
+  },
+  {
+    "book": "3 John",
+    "chapter": 1,
+    "chapter_name": "3 John 1",
+    "verses_size": 14
+  },
+  { "book": "Jude", "chapter": 1, "chapter_name": "Jude 1", "verses_size": 25 },
+  {
+    "book": "Revelation",
+    "chapter": 1,
+    "chapter_name": "Revelation 1",
+    "verses_size": 20
+  },
+  {
+    "book": "Revelation",
+    "chapter": 2,
+    "chapter_name": "Revelation 2",
+    "verses_size": 29
+  },
+  {
+    "book": "Revelation",
+    "chapter": 3,
+    "chapter_name": "Revelation 3",
+    "verses_size": 22
+  },
+  {
+    "book": "Revelation",
+    "chapter": 4,
+    "chapter_name": "Revelation 4",
+    "verses_size": 11
+  },
+  {
+    "book": "Revelation",
+    "chapter": 5,
+    "chapter_name": "Revelation 5",
+    "verses_size": 14
+  },
+  {
+    "book": "Revelation",
+    "chapter": 6,
+    "chapter_name": "Revelation 6",
+    "verses_size": 17
+  },
+  {
+    "book": "Revelation",
+    "chapter": 7,
+    "chapter_name": "Revelation 7",
+    "verses_size": 17
+  },
+  {
+    "book": "Revelation",
+    "chapter": 8,
+    "chapter_name": "Revelation 8",
+    "verses_size": 13
+  },
+  {
+    "book": "Revelation",
+    "chapter": 9,
+    "chapter_name": "Revelation 9",
+    "verses_size": 21
+  },
+  {
+    "book": "Revelation",
+    "chapter": 10,
+    "chapter_name": "Revelation 10",
+    "verses_size": 11
+  },
+  {
+    "book": "Revelation",
+    "chapter": 11,
+    "chapter_name": "Revelation 11",
+    "verses_size": 19
+  },
+  {
+    "book": "Revelation",
+    "chapter": 12,
+    "chapter_name": "Revelation 12",
+    "verses_size": 17
+  },
+  {
+    "book": "Revelation",
+    "chapter": 13,
+    "chapter_name": "Revelation 13",
+    "verses_size": 18
+  },
+  {
+    "book": "Revelation",
+    "chapter": 14,
+    "chapter_name": "Revelation 14",
+    "verses_size": 20
+  },
+  {
+    "book": "Revelation",
+    "chapter": 15,
+    "chapter_name": "Revelation 15",
+    "verses_size": 8
+  },
+  {
+    "book": "Revelation",
+    "chapter": 16,
+    "chapter_name": "Revelation 16",
+    "verses_size": 21
+  },
+  {
+    "book": "Revelation",
+    "chapter": 17,
+    "chapter_name": "Revelation 17",
+    "verses_size": 18
+  },
+  {
+    "book": "Revelation",
+    "chapter": 18,
+    "chapter_name": "Revelation 18",
+    "verses_size": 24
+  },
+  {
+    "book": "Revelation",
+    "chapter": 19,
+    "chapter_name": "Revelation 19",
+    "verses_size": 21
+  },
+  {
+    "book": "Revelation",
+    "chapter": 20,
+    "chapter_name": "Revelation 20",
+    "verses_size": 15
+  },
+  {
+    "book": "Revelation",
+    "chapter": 21,
+    "chapter_name": "Revelation 21",
+    "verses_size": 27
+  },
+  {
+    "book": "Revelation",
+    "chapter": 22,
+    "chapter_name": "Revelation 22",
+    "verses_size": 21
+  }
+]
